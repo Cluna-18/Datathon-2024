@@ -1,0 +1,186 @@
+---
+title: "Data Breaches"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+library(tidyverse)
+library(readr)
+library(rvest)
+library(dplyr)
+library(ggplot2)
+library(DT)
+library(scales)
+```
+
+
+
+```{r}
+data <- read.csv("breach_report.csv")
+glimpse(data)
+```
+```{r}
+data$Breach.Submission.Date <- mdy(data$Breach.Submission.Date)
+data <- data %>% 
+  mutate(month = month(Breach.Submission.Date),
+        day = day(Breach.Submission.Date),
+        year = year(Breach.Submission.Date))
+
+data <- data %>%
+  select(-Breach.Submission.Date)
+data<- data %>%
+  select(-day)
+data = subset(data, select = -c(Business.Associate.Present))
+data = subset(data, select= -c(Web.Description))
+```
+
+```{r}
+data23 <- data %>%
+  arrange(desc(Individuals.Affected))
+```
+
+
+
+```{r}
+write.csv(data, "breach_report(Tidy).csv",row.names= FALSE)
+```
+
+```{r}
+category_counts <- table(data$Type.of.Breach)
+print(category_counts)
+
+category_counts3 <- table(data$Covered.Entity.Type)
+print(category_counts3)
+
+
+
+data %>%
+  group_by(State)%>%
+summarise(
+      num_business_associate = sum(Covered.Entity.Type == "Business Associate"),
+      num_health_plan = sum(Covered.Entity.Type == "Health Plan"),
+      num_healthcare_clearing_house = sum(Covered.Entity.Type == "Healthcare Clearing House"),
+      num_healthcare_provider = sum(Covered.Entity.Type == "Healthcare Provider"),
+      total_companies = n(),
+      total_people_affected = sum(Individuals.Affected)
+    )
+
+
+
+
+```
+
+
+
+```{r}
+
+# Compute the counts for each month
+month_counts <- data %>%
+  filter(year==2024)%>%
+  group_by(month) %>%
+  summarize(count = n())
+
+# Define month names
+month_names <- month.abb
+
+# Create the bar plot with labels
+ggplot(data = month_counts, aes(x = factor(month), y = count)) +
+  geom_bar(stat = "identity", fill = "#ADD8E6", color = "black") +
+  labs(title = "Cases per Month (2024)", x = "Month", y = "Cases") +
+  scale_x_discrete(labels = month_names, breaks = 1:12) +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    plot.title = element_text(hjust = 0.5, face = "bold"),
+    axis.title = element_text(face = "bold"),
+    panel.grid.major = element_line(color = "grey80"),
+    panel.grid.minor = element_blank()
+  )
+```
+
+
+```{r}
+
+
+  summary_data <- data %>%
+    group_by(State) %>%
+    summarise(
+      total_people_affected = sum(Individuals.Affected)
+    )
+  
+  
+  # Split data into two halves
+  half <- ceiling(nrow(summary_data) / 2)
+  summary_data1 <- summary_data[1:half, ]
+  summary_data1 <- summary_data1[-1,]
+  summary_data2 <- summary_data[(half + 1):nrow(summary_data), ]
+  
+```
+
+
+
+
+```{r}
+
+# Define a color palette
+color_palette <- c("#ADD8E6", "#FFC107")
+
+# First plot with enhancements
+ggplot(summary_data1, aes(x = State, y = total_people_affected, fill = total_people_affected)) +
+  geom_bar(stat = "identity", color = "black", show.legend = FALSE) +
+  scale_y_continuous(name = "Total People Affected", labels = comma) +
+  scale_fill_gradient(low = color_palette[1], high = color_palette[2]) +
+  labs(title = "Total People Affected by State - Part 1", x = "State") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        plot.title = element_text(hjust = 0.5, face = "bold"),
+        axis.title = element_text(face = "bold"),
+        panel.grid.major = element_line(color = "grey80"),
+        panel.grid.minor = element_blank())
+
+# Second plot with enhancements
+ggplot(summary_data2, aes(x = State, y = total_people_affected, fill = total_people_affected)) +
+  geom_bar(stat = "identity", color = "black", show.legend = FALSE) +
+  scale_y_continuous(name = "Total People Affected", labels = comma) +
+  scale_fill_gradient(low = color_palette[1], high = color_palette[2]) +
+  labs(title = "Total People Affected by State - Part 2", x = "State") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        plot.title = element_text(hjust = 0.5, face = "bold"),
+        axis.title = element_text(face = "bold"),
+        panel.grid.major = element_line(color = "grey80"),
+        panel.grid.minor = element_blank())
+```
+
+```{r}
+data_Mod <- data %>%
+   filter(year==2024)%>%
+  group_by(Type.of.Breach)%>%
+  summarise(
+      total_people_affected = sum(Individuals.Affected)
+    )
+max_value <- max(data_Mod$total_people_affected, na.rm = TRUE)
+
+  
+  
+
+ggplot(data_Mod, aes(x = Type.of.Breach , y = total_people_affected, fill = total_people_affected)) +
+  geom_bar(stat="identity", color="black",show.legend=FALSE)+
+  geom_text(aes(label = comma(total_people_affected)), 
+            hjust = -0.1, size = 3.5, color = "black") +
+  scale_y_continuous(name="Total People Affected", labels=comma,limits = c(0, max_value * 1.2))+
+  scale_fill_gradient(low = color_palette[1], high = color_palette[2]) +
+  labs(title = "Total People Affected by Each Breach Type (2024)", x = "Breach Type")+
+  coord_flip()+
+  theme_minimal()+
+   theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        plot.title = element_text(hjust = 0.5, face = "bold"),
+        axis.title = element_text(face = "bold"),
+        panel.grid.major = element_line(color = "grey80"),
+        panel.grid.minor = element_blank())
+
+
+```
+
+

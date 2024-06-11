@@ -1,0 +1,95 @@
+---
+title: "Data Breaches from 2004-2021"
+output: html_document
+runtime: shiny
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(shiny)
+library(rvest)
+library(readr)
+```
+
+
+### ---------------------------------------------------------------------------
+
+I will be working with a dataset containing information on data breaches on various companies between 2004 and 2021. The information included in the dataset include the company name, the year the attack occurred, the number of records stolen or affected. the type of organization the company is in, and method that their security was breached by. 
+
+
+
+### We'll work with the following dataset from . 
+
+```{r}
+breach_data <- read_csv("breach_report(Tidy).csv")
+
+head(breach_data)
+```
+
+
+```{r}
+
+#Define UI
+ui <- fluidpage(
+#Put user interface code here
+#Both the input and the output
+
+fluidRow(
+
+
+ column(4,
+            sliderInput(inputId = "year",
+                         label = "Select a year",
+                         min = 20,
+                         max = 2021,
+                         value = 2004)),
+  column(4,
+           varSelectInput(inputId = "variable_x",
+                      label = "Choose variable to display for x-axis",
+                      data = gpmdata %>% select(lifeExp,pop,gdpPercap),
+                      multiple = FALSE,
+                      selectize = TRUE)
+           ),
+    column(4,
+           varSelectInput(inputId = "variable_y",
+                      label = "Choose variable to display for y-axis",
+                      data = gpmdata %>% select(lifeExp,pop,gdpPercap),
+                      #selected = gpmdata %>% select(pop),
+                      multiple = FALSE,
+                      selectize = TRUE)
+           ),
+    column(4,
+            varSelectInput(inputId = "size",
+                      label = "Choose variable to use for size",
+                      data = gpmdata %>% select(lifeExp,pop,gdpPercap),
+                     # selected = gpmdata %>% select(gdpPercap),
+                      multiple = FALSE,
+                      selectize = TRUE)),
+   fluidRow(
+    column(8,plotOutput("scatter")),
+    column(4,tableOutput("table")))))
+
+
+
+server <-function(input, output){
+ 
+  output$scatter <- renderPlot({
+  ggplot(data=data %>% filter(year==input$year))+
+  geom_point(aes(x=!!input$variable_x,y= !!input$variable_y,color = continent,size=!!input$size))+
+      scale_x_continuous(trans='log2')
+  })
+  
+  
+}
+
+# Run the app
+shinyApp(ui = ui, server = server)
+
+
+```
+
+
+
+

@@ -1,0 +1,65 @@
+---
+title: "Data Breaches from 2004-2021"
+output: html_document
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+library(tidyverse)
+library(readr)
+library(rvest)
+
+```
+
+### ---------------------------------------------------------------------------
+
+I will be working with a dataset containing information on data breaches on various companies between 2004 and 2021. The information included in the dataset include the company name, the year the attack occurred, the number of records stolen or affected. the type of organization the company is in, and method that their security was breached by. 
+
+```{r}
+page <- read_html("https://en.wikipedia.org/wiki/List_of_data_breaches#List_of_data_breaches_involving_companies")
+
+tables <- page %>% 
+  html_elements("table") %>%
+  html_table()
+data_table <- tables[[2]] 
+
+data_table = subset(data_table, select = -c(Sources))
+glimpse(data_table)
+```
+```{r}
+data_table <-data_table[-1,]
+data_table <-data_table[-5,]
+data_table <-data_table[-108,]
+data_table <-data_table[-228,]
+data_table <-data_table[-330,]
+glimpse(data_table)
+
+
+
+
+
+
+```
+
+```{r}
+data_table$Year <- as.numeric(data_table$Year)
+data_table_modded <- data_table
+data_table_modded$Records[!is.numeric(data_table_modded$Records)] <- NA
+```
+
+```{r}
+glimpse(data_table)
+
+```
+
+
+
+
+
+
+
+
+
+

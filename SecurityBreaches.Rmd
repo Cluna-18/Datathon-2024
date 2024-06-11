@@ -1,0 +1,63 @@
+---
+title: "Data Breaches from 2004-2021"
+output: html_document
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+library(tidyverse)
+library(readr)
+
+```
+
+### ---------------------------------------------------------------------------
+
+I will be working with a dataset containing information on data breaches on various companies between 2004 and 2021. The information included in the dataset include the company name, the year the attack occurred, the number of records stolen or affected. the type of organization the company is in, and method that their security was breached by. 
+
+```{r, include=FALSE}
+data <- read.csv("DataBreaches(2004-2021).csv")
+data$Year <- as.numeric(data$Year)
+data <- na.omit(data)
+write.csv(data, "DataBreachesN.csv",row.names= FALSE)
+DataBreaches <-read.csv("DataBreachesN")
+glimpse(DataBreaches)
+```
+
+```{r}
+ggplot(data=DataBreaches)+
+  geom_bar(mapping = aes(x=Year))
+```
+
+
+```{r}
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,908 @@
+"Name.of.Covered.Entity","State","Covered.Entity.Type","Individuals.Affected","Type.of.Breach","Location.of.Breached.Information","month","year"
+"Delta Specialty Hospital","TN","Healthcare Provider",1019,"Unauthorized Access/Disclosure","Email",5,2024
+"The Kennedy Collective","CT","Healthcare Provider",851,"Hacking/IT Incident","Email",5,2024
+"Allina Health System","MN","Healthcare Provider",715,"Unauthorized Access/Disclosure","Electronic Medical Record",5,2024
+"Redwood Coast Regional Center","CA","Healthcare Provider",500,"Hacking/IT Incident","Network Server",5,2024
+"Panoramic Health","AZ","Business Associate",5445,"Hacking/IT Incident","Email",5,2024
+"Affiliated Dermatologists and Dermatologic Surgeons, P.A.","NJ","Healthcare Provider",380000,"Hacking/IT Incident","Network Server",5,2024
+"Aetna ACE","CT","Health Plan",9191,"Hacking/IT Incident","Network Server",5,2024
+"MedStar Health, Inc.","MD","Healthcare Provider",183079,"Hacking/IT Incident","Email",5,2024
+"Marpai Health","NY","Healthcare Provider",1129,"Hacking/IT Incident","Email",5,2024
+"UnitedHealthcare Insurance Company","CT","Business Associate",16665,"Unauthorized Access/Disclosure","Paper/Films",5,2024
+"Merchants Benefit Administration","AZ","Health Plan",767,"Hacking/IT Incident","Email",4,2024
+"AMERICAN RENAL MANAGEMENT","TN","Business Associate",501,"Hacking/IT Incident","Network Server",4,2024
+"Inland Physicians Billing Services","CA","Healthcare Clearing House",77434,"Hacking/IT Incident","Network Server",4,2024
+"Signature Healthcare Services LLC","CA","Business Associate",4487,"Hacking/IT Incident","Network Server",4,2024
+"Guardant Health, Inc.","CA","Healthcare Provider",9309,"Unauthorized Access/Disclosure","Other",4,2024
+"LivaNova USA, Inc.","TX","Business Associate",180000,"Hacking/IT Incident","Network Server",4,2024
+"Forefront Dermatology, S.C. d/b/a Premier Dermatology","IL","Healthcare Provider",500,"Hacking/IT Incident","Email",4,2024
+"OrthoConnecticut PLLC","CT","Healthcare Provider",118141,"Hacking/IT Incident","Network Server",4,2024
+"Aspire Health Alliance","MA","Healthcare Provider",17490,"Hacking/IT Incident","Network Server",4,2024
+"Bay Oral Surgery & Implant Center","WI","Healthcare Provider",13055,"Hacking/IT Incident","Email",4,2024
+"Empath-Stratum Inc. doing business as  Empath Health","FL","Healthcare Provider",5545,"Hacking/IT Incident","Email",4,2024
+"Therapeutic Health Services ","WA","Healthcare Provider",501,"Hacking/IT Incident","Network Server",4,2024
+"County of Los Angeles Department of Health Services","CA","Healthcare Provider",6085,"Hacking/IT Incident","Email",4,2024
+"Moffitt Cancer Center and Research Institute","FL","Healthcare Provider",26577,"Hacking/IT Incident","Network Server",4,2024
+"Blackstone Valley Community Health Care","RI","Healthcare Provider",34518,"Hacking/IT Incident","Network Server",4,2024
+"The Georgia Institute for Plastic Surgery","GA","Healthcare Provider",8111,"Hacking/IT Incident","Network Server",4,2024
+"Health First Urgent Care PLLC","WA","Healthcare Provider",4538,"Unauthorized Access/Disclosure","Email",4,2024
+"The Prudential Insurance Company of America","NJ","Health Plan",36092,"Hacking/IT Incident","Network Server",4,2024
+"Bluebonnet Trails Community Services","TX","Healthcare Provider",76165,"Hacking/IT Incident","Email",4,2024
+"Advarra, Inc.","MD","Business Associate",596,"Hacking/IT Incident","Network Server",4,2024
+"Bridgeway Center, Inc.","FL","Healthcare Provider",36353,"Hacking/IT Incident","Network Server",4,2024
+"Green Diamond Resource Company","WA","Health Plan",8172,"Hacking/IT Incident","Network Server",4,2024
+"Hospice of the Bluegrass, Inc. dba Bluegrass Care Navigators","KY","Healthcare Provider",2282,"Hacking/IT Incident","Email",4,2024
+"Orthopedic and Fracture Clinic dba West Idaho Orthopedics and Sports Medicine","ID","Healthcare Provider",5000,"Hacking/IT Incident","Network Server",4,2024
+"Philips Respironics","PA","Business Associate",1338,"Hacking/IT Incident","Network Server",4,2024
+"Philips Respironics","PA","Business Associate",7539,"Hacking/IT Incident","Network Server",4,2024
+"Philips Respironics","PA","Business Associate",5576,"Hacking/IT Incident","Network Server",4,2024
+"Moveable Feast, Inc.","MD","Healthcare Provider",568,"Improper Disposal","Paper/Films",4,2024
+"MHNU Corporation d/b/a Medical Home Network","IL","Business Associate",681,"Hacking/IT Incident","Email",4,2024
+"Dental Health Services","CA","Health Plan",4562,"Unauthorized Access/Disclosure","Email",4,2024
+"Dental Health Services, Inc","WA","Health Plan",1778,"Unauthorized Access/Disclosure","Email",4,2024
+"Somerset Dental Las Vegas","NV","Healthcare Provider",11321,"Hacking/IT Incident","Network Server",4,2024
+"Catholic Medical Center","NH","Healthcare Provider",2792,"Hacking/IT Incident","Email",4,2024
+"Kaiser Foundation Health Plan, Inc.","CA","Health Plan",13400000,"Unauthorized Access/Disclosure","Network Server",4,2024
+"Rebound Orthopedics & Neurosurgery","WA","Healthcare Provider",500,"Hacking/IT Incident","Network Server",4,2024
+"American Healthcare Systems LLC dba Randolph Health ","NC","Healthcare Provider",899,"Hacking/IT Incident","Email",4,2024
+"CompuNet Clinical Laboratories","OH","Healthcare Provider",6963,"Unauthorized Access/Disclosure","Other Portable Electronic Device",4,2024
+"The Epilepsy Foundation of Metro New York","NY","Healthcare Provider",3852,"Hacking/IT Incident","Network Server",4,2024
+"Knowles Smith & Associates, d/b/a Village Family Dental ","NC","Healthcare Provider",240214,"Hacking/IT Incident","Network Server",4,2024
+"Group Health Cooperative of South Central Wisconsin","WI","Health Plan",533809,"Hacking/IT Incident","Network Server",4,2024
+"Island Ambulatory Surgery Center, LLC ","NY","Healthcare Provider",7900,"Hacking/IT Incident","Network Server",4,2024
+"Sleep Management Institute","OH","Healthcare Provider",500,"Hacking/IT Incident","Network Server",4,2024
+"Gaia Software, LLC","CO","Business Associate",56676,"Hacking/IT Incident","Network Server",4,2024
+"BlueCross BlueShield of Tennessee, Inc. ","TN","Business Associate",550,"Unauthorized Access/Disclosure","Other",4,2024
+"Jackson Medical Center, LLC","AL","Healthcare Provider",509,"Hacking/IT Incident","Network Server",4,2024
+"ZSFG Hospital and Trauma Center","CA","Healthcare Provider",755,"Loss","Paper/Films",4,2024
+"Politzer and Durocher, PLC d/b/a Optometric Physicians of Middle Tennessee","TN","Healthcare Provider",29000,"Hacking/IT Incident","Network Server",4,2024
+"Cattaraugus-Allegany Board of Cooperative Education Services","NY","Business Associate",15203,"Hacking/IT Incident","Network Server",4,2024
+"UNC Hospitals","NC","Healthcare Provider",3142,"Hacking/IT Incident","Email",4,2024
+"Advanced Care Hospital of Montana","MT","Healthcare Provider",2331,"Hacking/IT Incident","Network Server",4,2024
+"Continuum Health Alliance, LLC","NJ","Business Associate",1328,"Hacking/IT Incident","Network Server",4,2024
+"Rutgers Robert Wood Johnson Medical School","NJ","Healthcare Provider",543,"Unauthorized Access/Disclosure","Email",4,2024
+"University of Tennessee Health Science Center","TN","Healthcare Provider",19353,"Hacking/IT Incident","Network Server",4,2024
+"Otolaryngology Associates, LLC","IN","Healthcare Provider",316802,"Hacking/IT Incident","Network Server",4,2024
+"Northern Virginia Oral, Maxillofacial & Implant Surgery ","VA","Healthcare Provider",4333,"Hacking/IT Incident","Network Server",3,2024
+"PRATT MRI LLC","KS","Business Associate",4265,"Loss","Other Portable Electronic Device",3,2024
+"South Texas Rehabilitation Hospital","TX","Healthcare Provider",4130,"Hacking/IT Incident","Network Server",3,2024
+"Rehabilitation Hospital of Northern Indiana","IN","Healthcare Provider",1643,"Hacking/IT Incident","Network Server",3,2024
+"Rehabilitation Hospital of Northern Arizona ","AZ","Healthcare Provider",3287,"Hacking/IT Incident","Network Server",3,2024
+"Mesquite Rehabilitation Institute ","TX","Healthcare Provider",3317,"Hacking/IT Incident","Network Server",3,2024
+"Northern Utah Rehabilitation Hospital","UT","Healthcare Provider",3477,"Hacking/IT Incident","Network Server",3,2024
+"Northern Idaho Advanced Care Hospital","ID","Healthcare Provider",5606,"Hacking/IT Incident","Network Server",3,2024
+"County of Los Angeles Department of Health Services - Olive View-UCLA Medical Center","CA","Healthcare Provider",3716,"Theft","Paper/Films",3,2024
+"Mesquite Specialty Hospital ","TX","Healthcare Provider",1244,"Hacking/IT Incident","Network Server",3,2024
+"Baylor College of Medicine","TX","Healthcare Provider",801,"Unauthorized Access/Disclosure","Laptop",3,2024
+"Laredo Specialty Hospital","TX","Healthcare Provider",1242,"Hacking/IT Incident","Network Server",3,2024
+"Laredo Rehabilitation Hospital","TX","Healthcare Provider",1785,"Hacking/IT Incident","Network Server",3,2024
+"Elkhorn Valley Rehabilitation Hospital","WY","Healthcare Provider",3636,"Hacking/IT Incident","Network Server",3,2024
+"Spartanburg Rehabilitation Institute","SC","Healthcare Provider",4506,"Hacking/IT Incident","Network Server",3,2024
+"Weslaco Regional Rehabilitation Hospital","TX","Healthcare Provider",2781,"Hacking/IT Incident","Network Server",3,2024
+"Utah Valley Rehabilitation Hospital","UT","Healthcare Provider",1642,"Hacking/IT Incident","Network Server",3,2024
+"Trustpoint Rehabilitation Hospital of Lubbock","TX","Healthcare Provider",9014,"Hacking/IT Incident","Network Server",3,2024
+"Denver Regional Rehabilitation Hospital","CO","Healthcare Provider",848,"Hacking/IT Incident","Network Server",3,2024
+"Summa Rehabilitation Hospital","OH","Healthcare Provider",2986,"Hacking/IT Incident","Network Server",3,2024
+"Bloomington Regional Rehabilitation Hospital","IN","Healthcare Provider",1191,"Hacking/IT Incident","Network Server",3,2024
+"Rehabilitation Hospital of the Northwest","ID","Healthcare Provider",3821,"Hacking/IT Incident","Network Server",3,2024
+"Rehabilitation Hospital of Southern New Mexico","NM","Healthcare Provider",5466,"Hacking/IT Incident","Network Server",3,2024
+"Bakersfield Rehabilitation Hospital","CA","Healthcare Provider",852,"Hacking/IT Incident","Network Server",3,2024
+"Rehabilitation Hospital of Southern California","CA","Healthcare Provider",925,"Hacking/IT Incident","Network Server",3,2024
+"Rehabilitation Hospital of Northwest Ohio","OH","Healthcare Provider",3671,"Hacking/IT Incident","Network Server",3,2024
+"Northern Colorado Rehabilitation Hospital","CO","Healthcare Provider",885,"Hacking/IT Incident","Network Server",3,2024
+"Northern Colorado Long Term Acute Hospital","CO","Healthcare Provider",4335,"Hacking/IT Incident","Network Server",3,2024
+"New Braunfels Regional Rehabilitation Hospital","TX","Healthcare Provider",5384,"Hacking/IT Incident","Network Server",3,2024
+"Mountain Valley Regional Rehabilitation Hospital","AZ","Healthcare Provider",5963,"Hacking/IT Incident","Network Server",3,2024
+"Advanced Care Hospital of Southern New Mexico","NM","Healthcare Provider",1162,"Hacking/IT Incident","Network Server",3,2024
+"Midlands Regional Rehabilitation Hospital","SC","Healthcare Provider",2018,"Hacking/IT Incident","Network Server",3,2024
+"Lafayette Regional Rehabilitation Hospital","IN","Healthcare Provider",2861,"Hacking/IT Incident","Network Server",3,2024
+"Greenwood Regional Rehabilitation Hospital","SC","Healthcare Provider",5823,"Hacking/IT Incident","Network Server",3,2024
+"Corpus Christi Rehabilitation Hospital","TX","Healthcare Provider",3581,"Hacking/IT Incident","Network Server",3,2024
+"Highmark","PA","Health Plan",5356,"Unauthorized Access/Disclosure","Paper/Films",3,2024
+"Florida Pediatric Associates, LLC ","FL","Healthcare Provider",1104,"Hacking/IT Incident","Network Server",3,2024
+"Strive Holdco, LLC","TX","Healthcare Provider",501,"Unauthorized Access/Disclosure","Network Server",3,2024
+"Risas Dental & Braces","PA","Healthcare Provider",618189,"Hacking/IT Incident","Network Server",3,2024
+"UT Southwestern Medical Center","TX","Healthcare Provider",1956,"Unauthorized Access/Disclosure","Network Server",3,2024
+"Washington County Department of Human Services","PA","Healthcare Provider",501,"Hacking/IT Incident","Network Server",3,2024
+"Baytown Medical Center, L.P.","TX","Healthcare Provider",1500,"Unauthorized Access/Disclosure","Network Server",3,2024
+"Pembina County Memorial Hospital","ND","Healthcare Provider",23811,"Hacking/IT Incident","Network Server",3,2024
+"Family Health Center ","MI","Healthcare Provider",33240,"Hacking/IT Incident","Network Server",3,2024
+"Robert Peterson DD.S. PC","OR","Healthcare Provider",6500,"Theft","Paper/Films",3,2024
+"Designed Receivable Solutions, Inc.","CA","Business Associate",129584,"Hacking/IT Incident","Network Server",3,2024
+"Human Development Services of Westchester, Inc.","NY","Healthcare Provider",506,"Hacking/IT Incident","Email",3,2024
+"Mary H. Makhlouf, DMD, MS, PA","NC","Healthcare Provider",1797,"Hacking/IT Incident","Network Server",3,2024
+"Ethos, also known as Southwest Boston Senior Services","MA","Business Associate",14503,"Hacking/IT Incident","Network Server",3,2024
+"Emergency Medical Services Authority","OK","Healthcare Provider",611743,"Hacking/IT Incident","Network Server",3,2024
+"County of Los Angeles Department of Mental Health","CA","Healthcare Provider",1408,"Hacking/IT Incident","Email",3,2024
+"Lakewood Medical Center, PC","CO","Healthcare Provider",2500,"Hacking/IT Incident","Network Server",3,2024
+"M&D Capital Premier Billing LLC","NY","Business Associate",284326,"Hacking/IT Incident","Network Server",3,2024
+"City of Conneaut","OH","Healthcare Provider",771,"Hacking/IT Incident","Email",3,2024
+"Battle Mountain General Hospital","NV","Healthcare Provider",3000,"Hacking/IT Incident","Desktop Computer, Network Server",3,2024
+"Pomona Valley Hospital Medical Center","CA","Healthcare Provider",13345,"Hacking/IT Incident","Network Server",3,2024
+"Western New York Independent Living, Inc.","NY","Healthcare Provider",2886,"Hacking/IT Incident","Network Server",3,2024
+"Ezras Choilim Health Center, Inc.","NY","Healthcare Provider",59861,"Hacking/IT Incident","Network Server",3,2024
+"Valley Oaks Health ","IN","Healthcare Provider",50034,"Hacking/IT Incident","Network Server",3,2024
+"Bonney Forge Corporation","PA","Health Plan",672,"Hacking/IT Incident","Network Server",3,2024
+"RxBenefits, Inc. ","AL","Business Associate",3396,"Unauthorized Access/Disclosure","Paper/Films",3,2024
+"Andor Labs","NC","Healthcare Provider",500,"Theft","Laptop",3,2024
+"Sycamore Rehabilitation Services, Inc.","IN","Healthcare Provider",3414,"Hacking/IT Incident","Network Server",3,2024
+"Weirton Medical Center","WV","Healthcare Provider",26793,"Hacking/IT Incident","Network Server",3,2024
+"Philips Respironics","PA","Business Associate",1125,"Hacking/IT Incident","Network Server",3,2024
+"Aveanna Healthcare","GA","Healthcare Provider",65482,"Hacking/IT Incident","Email",3,2024
+"Cornerstone Healthcare Group Management Services LLC","KY","Business Associate",500,"Hacking/IT Incident","Network Server",3,2024
+"California Correctional Health Care Services","CA","Healthcare Provider",1348,"Unauthorized Access/Disclosure","Email",3,2024
+"Bronson Healthcare Group","MI","Healthcare Provider",1597,"Unauthorized Access/Disclosure","Electronic Medical Record",3,2024
+"Plymouth Tube Company Employee Benefit Plan","IL","Health Plan",2652,"Hacking/IT Incident","Network Server",3,2024
+"A5 PHARMACY INC.","NY","Healthcare Provider",3000,"Hacking/IT Incident","Network Server",3,2024
+"Lindsay Municipal Hospital","OK","Healthcare Provider",500,"Hacking/IT Incident","Email",3,2024
+"Healthfirst (consisting of those plans under Healthfirst PHSP, Inc., Healthfirst Health Plan, Inc., and Healthfirst Insurance Company, Inc.","NY","Health Plan",6836,"Unauthorized Access/Disclosure","Other",3,2024
+"CCM Health","MN","Healthcare Provider",28760,"Hacking/IT Incident","Network Server",3,2024
+"R1 RCM Inc.","IL","Business Associate",16121,"Hacking/IT Incident","Network Server",3,2024
+"Texas Health and Human Services ","TX","Health Plan",3392,"Unauthorized Access/Disclosure","Email",3,2024
+"Rancho Family Medical Group, Inc.","CA","Healthcare Provider",10480,"Hacking/IT Incident","Network Server",3,2024
+"Massachusetts Department of Developmental Services","MA","Healthcare Provider",500,"Improper Disposal","Paper/Films",3,2024
+"UC San Diego Health Hillcrest- Hillcrest Medical Center","CA","Healthcare Provider",1642,"Hacking/IT Incident","Email",3,2024
+"Orsini Pharmaceutical Services, LLC","IL","Healthcare Provider",1433,"Hacking/IT Incident","Email",3,2024
+"Gunster, Yoakley, & Stewart, PA","FL","Business Associate",9550,"Hacking/IT Incident","Network Server",3,2024
+"Jewish Home Lifecare, Inc. ","NY","Healthcare Provider",501,"Hacking/IT Incident","Network Server",3,2024
+"CDC Dental Management, Co., LLC dba Kids Care Dental & Orthodontics","CA","Healthcare Provider",2260,"Hacking/IT Incident","Network Server",3,2024
+"Dental Group of Amarillo","TX","Healthcare Provider",3821,"Hacking/IT Incident","Network Server",3,2024
+"Orthopedic Associates of Flower Mound PLLC","TX","Healthcare Provider",1759,"Hacking/IT Incident","Email",3,2024
+"Seaglass Chiropractic","NJ","Healthcare Provider",650,"Theft","Laptop, Other Portable Electronic Device",3,2024
+"University of Wisconsin Hospitals and Clinics Authority ","WI","Healthcare Provider",85902,"Hacking/IT Incident","Email",3,2024
+"BlueCross BlueShield of Tennessee, Inc. and Volunteer State Health Plan, Inc. d/b/a BlueCare Plus Tennessee","TN","Health Plan",1251,"Hacking/IT Incident","Network Server",3,2024
+"Philips Respironics","PA","Business Associate",457152,"Hacking/IT Incident","Network Server",3,2024
+"Bay Surgical Specialists, LLC","FL","Healthcare Provider",1505,"Hacking/IT Incident","Network Server",3,2024
+"Lake of the Woods County Social Services","MN","Healthcare Provider",537,"Hacking/IT Incident","Network Server",3,2024
+"Yakima Valley Radiology, PC","WA","Healthcare Provider",235249,"Hacking/IT Incident","Network Server",3,2024
+"Cherry Street Services, Inc. d/b/a Cherry Health ","MI","Healthcare Provider",500,"Hacking/IT Incident","Network Server",2,2024
+"DGA-Producer Pension & Health Plans","CA","Health Plan",4211,"Hacking/IT Incident","Network Server",2,2024
+"Highland Health Systems","AL","Healthcare Provider",500,"Hacking/IT Incident","Network Server",2,2024
+"Kirkland & Ellis LLP","IL","Business Associate",48802,"Hacking/IT Incident","Network Server",2,2024
+"Eastern Radiologists, Inc","NC","Healthcare Provider",886746,"Hacking/IT Incident","Network Server",2,2024
+"Ada Technologies, Inc. ","OH","Health Plan",2398,"Hacking/IT Incident","Network Server",2,2024
+"kmj Health Solutions","MI","Business Associate",2191,"Hacking/IT Incident","Network Server",2,2024
+"Littleton Regional Healthcare","NH","Healthcare Provider",12614,"Unauthorized Access/Disclosure","Email",2,2024
+"Oakland Community Health Network","MI","Health Plan",607,"Unauthorized Access/Disclosure","Email",2,2024
+" Ohio Neurologic Institute","OH","Healthcare Provider",5548,"Theft","Laptop",2,2024
+"Northeast Orthopedics and Sports Medicine, PLLC","NY","Healthcare Provider",177101,"Hacking/IT Incident","Network Server",2,2024
+"Community Health Group Partnership Plan","CA","Health Plan",708,"Hacking/IT Incident","Network Server",2,2024
+"Ascend Healthcare Management LLC","AZ","Healthcare Provider",791,"Hacking/IT Incident","Other",2,2024
+"Scurry County Hospital District dba Cogdell Memorial Hospital","TX","Healthcare Provider",86981,"Hacking/IT Incident","Network Server",2,2024
+"MedQ, Inc.","TX","Business Associate",54725,"Hacking/IT Incident","Network Server",2,2024
+"Bold Quail Holdings, LLC (NewGen Administrative Services, LLC) ","CA","Healthcare Provider",105425,"Hacking/IT Incident","Network Server",2,2024
+"UNITE HERE ","NY","Business Associate",791273,"Hacking/IT Incident","Network Server",2,2024
+"Santa Clarita Community College District","CA","Health Plan",2324,"Hacking/IT Incident","Network Server",2,2024
+"CVS Caremark Part D Services, L.L.C. (“CVS”)","RI","Business Associate",11193,"Unauthorized Access/Disclosure","Paper/Films",2,2024
+"Prague Regional Memorial Hospital ","OK","Healthcare Provider",1347,"Hacking/IT Incident","Email",2,2024
+"Washington County Hospital and Nursing Home","AL","Healthcare Provider",29346,"Hacking/IT Incident","Network Server",2,2024
+"Lamont Hanley & Associates, Inc.","NH","Business Associate",1863,"Hacking/IT Incident","Network Server",2,2024
+"Maryville, Inc.","NJ","Healthcare Provider",15503,"Hacking/IT Incident","Email",2,2024
+"interventional Pain and Regenerative Medicine","TX","Healthcare Provider",2843,"Unauthorized Access/Disclosure","Paper/Films",2,2024
+"East Carolina University’s Brody School of Medicine, a member of the ECU Health affiliated covered entity","NC","Healthcare Provider",19085,"Unauthorized Access/Disclosure","Network Server",2,2024
+"Egyptian Health Department ","IL","Healthcare Provider",100000,"Hacking/IT Incident","Network Server",2,2024
+"McKenzie County Healthcare System, Inc.","ND","Healthcare Provider",21000,"Unauthorized Access/Disclosure","Email",2,2024
+"Hospice of Huntington","WV","Healthcare Provider",9013,"Hacking/IT Incident","Network Server",2,2024
+"Dedicated Physicians Group of Texas, PLLC d/b/a Dedicated Senior Medical Center","FL","Healthcare Provider",3441,"Theft","Other",2,2024
+"CareFirst BlueCross BlueShield Community Health Plan – District of Columbia","DC","Business Associate",2189,"Unauthorized Access/Disclosure","Network Server",2,2024
+"Mental Health Center of North Central Alabama, Inc.","AL","Healthcare Provider",1000,"Hacking/IT Incident","Network Server",2,2024
+"CVS Pharmacy, Inc.","RI","Healthcare Provider",1896,"Unauthorized Access/Disclosure","Network Server",2,2024
+"Dignity Health Welfare Benefits Plan","CO","Health Plan",744,"Unauthorized Access/Disclosure","Paper/Films",2,2024
+"Employee Benefits Corporation of America and Benefit Design Group, Inc.","VA","Health Plan",38912,"Hacking/IT Incident","Network Server",2,2024
+"Qualcomm Incorporated","CA","Health Plan",27038,"Hacking/IT Incident","Network Server",2,2024
+"Amin Radiology d/b/a Citrus Diagnostic Center ","FL","Healthcare Provider",1273,"Hacking/IT Incident","Network Server",2,2024
+"BlueCross BlueShield of Tennessee, Inc. and Volunteer State Health Plan, Inc. d/b/a BlueCare Plus Tennessee","TN","Health Plan",790,"Hacking/IT Incident","Network Server",2,2024
+"Lena Pope Home Inc.","TX","Healthcare Provider",3954,"Hacking/IT Incident","Email",2,2024
+"Insurance ACE/Humana Inc.","KY","Health Plan",3480,"Unauthorized Access/Disclosure","Paper/Films",2,2024
+"North Hill Needham, Inc., North Hill Home Health Care, Inc. and North Hill Employee Dental Plan","MA","Healthcare Provider",1096,"Hacking/IT Incident","Network Server",2,2024
+"City of Dubuque Fire Department","IA","Healthcare Provider",1381,"Unauthorized Access/Disclosure","Network Server",2,2024
+"Roswell Park Comprehensive Cancer Center","NY","Healthcare Provider",755,"Hacking/IT Incident","Email",2,2024
+"Biomatrix Specialty Pharmacy, LLC ","FL","Healthcare Provider",3640,"Hacking/IT Incident","Network Server",2,2024
+"Lexington Health, Inc.","SC","Healthcare Provider",1994,"Hacking/IT Incident","Email, Other",2,2024
+"May Institute ","MA","Healthcare Provider",3318,"Hacking/IT Incident","Network Server",2,2024
+"Erie Indemnity Company Group Dental Assistance Plan","PA","Health Plan",3122,"Hacking/IT Incident","Network Server",2,2024
+"AGC Flat Glass North America, Inc. Welfare Benefits Plan","GA","Health Plan",13079,"Hacking/IT Incident","Network Server",2,2024
+"Coleman Professional Services Inc. ","OH","Healthcare Provider",51889,"Hacking/IT Incident","Email",2,2024
+"Tiegerman","NY","Healthcare Provider",19000,"Hacking/IT Incident","Network Server",2,2024
+"Prime Healthcare Employee Health Plan","CA","Health Plan",101135,"Hacking/IT Incident","Network Server",2,2024
+"CBIZ Marks Paneth, LLC","OH","Business Associate",5562,"Hacking/IT Incident","Network Server",2,2024
+"Insurance ACE/Humana Inc.","KY","Health Plan",748,"Unauthorized Access/Disclosure","Electronic Medical Record, Network Server, Other",2,2024
+"Liberty Hospital","MO","Healthcare Provider",501,"Hacking/IT Incident","Network Server",2,2024
+"Medical Management Resource Group, L.L.C.","AZ","Business Associate",2350236,"Hacking/IT Incident","Network Server",2,2024
+"The Bengtson Center for Aesthetics and Plastic Surgery","MI","Healthcare Provider",935,"Unauthorized Access/Disclosure","Desktop Computer, Network Server",2,2024
+"Spectrum Vision Partners","NY","Business Associate",500,"Hacking/IT Incident","Network Server",2,2024
+"Greater Cincinnati Behavioral Health Services ","OH","Healthcare Provider",50000,"Hacking/IT Incident","Network Server",2,2024
+"East Side Health District","IL","Healthcare Provider",559,"Hacking/IT Incident","Network Server",2,2024
+"Health Alliance Medical Plans","IL","Health Plan",6900,"Hacking/IT Incident","Network Server",2,2024
+"Capital Health System, Inc.","NJ","Healthcare Provider",501,"Hacking/IT Incident","Network Server",1,2024
+"Crescent Community Health Center","IA","Healthcare Provider",501,"Hacking/IT Incident","Email",1,2024
+"Saint Anthony Health Ministries ","IL","Healthcare Provider",500,"Hacking/IT Incident","Network Server",1,2024
+"Bay Area Heart Center, PA","FL","Healthcare Provider",11709,"Hacking/IT Incident","Network Server",1,2024
+"Veterans Health Administration","DC","Healthcare Provider",46677,"Unauthorized Access/Disclosure","Paper/Films",1,2024
+"Allies for Health + Wellbeing ","PA","Healthcare Provider",680,"Hacking/IT Incident","Email, Other",1,2024
+"OrthoArkansas, PA Employee Benefit Plan","AR","Health Plan",1270,"Hacking/IT Incident","Network Server",1,2024
+"Sun Pain Management, LLC","AZ","Healthcare Provider",2988,"Hacking/IT Incident","Network Server",1,2024
+"CNO ACE","IN","Health Plan",65295,"Hacking/IT Incident","Network Server",1,2024
+"Kern Regional Center","CA","Healthcare Provider",700,"Unauthorized Access/Disclosure","Email",1,2024
+"Artesia General Hospital","NM","Healthcare Provider",1985,"Unauthorized Access/Disclosure","Paper/Films",1,2024
+"INTEGRIS Health","OK","Healthcare Provider",2385646,"Hacking/IT Incident","Network Server",1,2024
+"Nabholz Construction Company Employee Welfare Health Plan","AR","Health Plan",5326,"Hacking/IT Incident","Network Server",1,2024
+"United Regional Health Care System","TX","Healthcare Provider",36900,"Hacking/IT Incident","Network Server",1,2024
+"Marian Village Corporation, d/b/a/ Marywood Nursing Care Center (“Marywood”) ","MI","Healthcare Provider",6178,"Hacking/IT Incident","Network Server",1,2024
+"FedEx Corporation Group Health Plan","TN","Health Plan",553,"Hacking/IT Incident","Network Server",1,2024
+"Webber Chiropractic Sports Clinic, Inc. ","WA","Healthcare Provider",1695,"Hacking/IT Incident","Network Server",1,2024
+"Des Moines Orthopaedic Surgeons, P.C.","IA","Business Associate",55055,"Hacking/IT Incident","Network Server",1,2024
+"J.D. Gilmour & Co., Inc.","CA","Business Associate",2570,"Hacking/IT Incident","Email",1,2024
+"Coastal Hospice & Palliative Care","MD","Healthcare Provider",29100,"Hacking/IT Incident","Network Server",1,2024
+"AHS Management Company, Inc.","TN","Business Associate",23686,"Hacking/IT Incident","Network Server",1,2024
+"Des Moines Orthopaedic Surgeons, P.C.","IA","Healthcare Provider",307864,"Hacking/IT Incident","Network Server",1,2024
+"Catholic Charities of the Archdiocese of Miami, Inc.","FL","Healthcare Provider",1500,"Hacking/IT Incident","Network Server",1,2024
+"Omaha Firefighters Healthcare Trust ","NE","Health Plan",3567,"Hacking/IT Incident","Email",1,2024
+"Columbus Regional Healthcare System","NC","Healthcare Provider",132887,"Hacking/IT Incident","Network Server",1,2024
+"Regence BlueCross BlueShield of Oregon","OR","Health Plan",856,"Unauthorized Access/Disclosure","Paper/Films",1,2024
+"Walker, Inc. d/b/a Walker Therapeutic & Educational Programs ","MA","Healthcare Provider",846,"Hacking/IT Incident","Email",1,2024
+"TGI Direct","MI","Business Associate",11556,"Hacking/IT Incident","Network Server",1,2024
+"Brady Martz & Associates PC","ND","Business Associate",7154,"Hacking/IT Incident","Network Server",1,2024
+"Dickinson County Health Department","KS","Healthcare Provider",1063,"Unauthorized Access/Disclosure","Desktop Computer",1,2024
+"CR Pharmacy Services, Inc. d/b/a CarePro","IA","Healthcare Provider",151499,"Hacking/IT Incident","Network Server",1,2024
+"Colorado Ophthalmology Associates, PC","CO","Healthcare Provider",6020,"Hacking/IT Incident","Network Server",1,2024
+"HORNE, LLP","MS","Business Associate",170052,"Hacking/IT Incident","Network Server",1,2024
+"Azura Vascular Care","PA","Business Associate",348000,"Hacking/IT Incident","Network Server",1,2024
+"Lester and Rosalie Anixter Center","IL","Healthcare Provider",500,"Hacking/IT Incident","Email",1,2024
+"Pacific Cataract and Laser Institute, Inc., P.C.","WA","Healthcare Provider",9967,"Hacking/IT Incident","Desktop Computer, Laptop, Network Server",1,2024
+"Covenant Care California, LLC ","CA","Healthcare Provider",501,"Hacking/IT Incident","Network Server",1,2024
+"Summit Medical Group, PLLC","TN","Healthcare Provider",4135,"Hacking/IT Incident","Network Server",1,2024
+"Air Methods, LLC","NV","Healthcare Provider",34016,"Theft","Laptop",1,2024
+"Family Healthcare Center","ND","Healthcare Provider",6457,"Hacking/IT Incident","Network Server",1,2024
+"Hampton-Newport News Community Services Board","VA","Healthcare Provider",44312,"Hacking/IT Incident","Network Server",1,2024
+"InHealth Technologies","CA","Healthcare Provider",12143,"Hacking/IT Incident","Network Server",1,2024
+"Burr & Forman LLP","AL","Business Associate",19893,"Hacking/IT Incident","Network Server",1,2024
+"Coastal Plains Community Mental Health Mental Retardation Center","TX","Healthcare Provider",500,"Hacking/IT Incident","Network Server",1,2024
+"Concentra Health Services, Inc.","TX","Healthcare Provider",3998163,"Hacking/IT Incident","Network Server",1,2024
+"Psychological Holdings, PLLC d/b/a Senior PsychCare","TX","Healthcare Provider",75349,"Hacking/IT Incident","Network Server",1,2024
+"Sharp Health Plan","CA","Health Plan",8200,"Unauthorized Access/Disclosure","Paper/Films",1,2024
+"Sharp Health Plan","CA","Health Plan",9255,"Hacking/IT Incident","Network Server",1,2024
+"Catholic Heath Initiative Trinity Medical Center","OH","Healthcare Provider",797,"Hacking/IT Incident","Network Server",1,2024
+"Dignity Health Nevada St. Rose Dominican Hospital ","NV","Healthcare Provider",2652,"Hacking/IT Incident","Network Server",1,2024
+"The Harris Center for Mental Health and IDD","TX","Healthcare Provider",238463,"Hacking/IT Incident","Network Server",1,2024
+"Daleville Dental II LLC","AL","Healthcare Provider",500,"Hacking/IT Incident","Network Server",1,2024
+"Veterans Health Administration","DC","Healthcare Provider",2380,"Unauthorized Access/Disclosure","Paper/Films",1,2024
+"Tampa Bay Surgical Group   ","FL","Healthcare Provider",1107,"Loss","Other Portable Electronic Device",1,2024
+"Cooper Clinic, P.A. ","TX","Healthcare Provider",124341,"Hacking/IT Incident","Network Server",1,2024
+"Fincantieri Marine Group, LLC","DC","Health Plan",11535,"Hacking/IT Incident","Network Server",1,2024
+"ConsensioHealth, LLC","WI","Business Associate",60871,"Hacking/IT Incident","Network Server",1,2024
+"Morgan Stanley Health Benefits and Insurance Plan","NY","Health Plan",2442,"Hacking/IT Incident","Network Server",1,2024
+"Northern Inyo Healthcare District","CA","Healthcare Provider",1305,"Hacking/IT Incident","Network Server",1,2024
+"Amerigroup Iowa, Inc","IN","Business Associate",1023,"Unauthorized Access/Disclosure","Network Server",1,2024
+"Midwest Long Term Care Services DBA Senior Scripts","MO","Healthcare Provider",10566,"Hacking/IT Incident","Network Server",1,2024
+"Community Tri-County Healthcare","AL","Healthcare Provider",5809,"Hacking/IT Incident","Network Server",1,2024
+"Keystone First","PA","Health Plan",1965,"Hacking/IT Incident","Network Server",1,2024
+"HMG Healthcare, LLC","TX","Healthcare Provider",80000,"Hacking/IT Incident","Network Server",12,2023
+"EDI Health Group dba DentalXChange","CA","Healthcare Clearing House",2574,"Hacking/IT Incident","Network Server",12,2023
+"Electrostim Medical Services, Inc. d/b/A EMSI","FL","Healthcare Provider",542990,"Hacking/IT Incident","Network Server",12,2023
+"Fred Hutchinson Cancer Center","WA","Healthcare Provider",544,"Loss","Laptop",12,2023
+"Lake County Health Department and Community Health Center","IL","Healthcare Provider",5000,"Hacking/IT Incident","Email",12,2023
+"Meridian Behavioral Healthcare, Inc.","FL","Healthcare Provider",98808,"Hacking/IT Incident","Network Server",12,2023
+"Mountain Dermatology Specialists, PC","CO","Healthcare Provider",2705,"Hacking/IT Incident","Email",12,2023
+"Eye Physicians of Central Florida, PLLC, a division of Florida Pediatric Associates, LLC","FL","Healthcare Provider",31189,"Hacking/IT Incident","Network Server",12,2023
+"Highlands Oncology Group PA","AR","Healthcare Provider",55297,"Hacking/IT Incident","Desktop Computer, Network Server",12,2023
+"Kent County Community Mental Health Authority d/b/a Network180 ","MI","Healthcare Provider",59334,"Hacking/IT Incident","Email",12,2023
+"County of Los Angeles Department of Mental Health","CA","Healthcare Provider",1284,"Hacking/IT Incident","Email",12,2023
+"Clay County Social Services","MN","Business Associate",123807,"Hacking/IT Incident","Network Server",12,2023
+"NYC Health + Hospitals","NY","Healthcare Provider",1500,"Unauthorized Access/Disclosure","Desktop Computer, Paper/Films",12,2023
+"The Foleck Center, LTD","VA","Healthcare Provider",6965,"Hacking/IT Incident","Email",12,2023
+"Retina Group of Washington, PLLC","MD","Healthcare Provider",455935,"Hacking/IT Incident","Network Server",12,2023
+"Fred Hutchinson Cancer Center","WA","Healthcare Provider",890959,"Hacking/IT Incident","Network Server",12,2023
+"HealthEC LLC","NJ","Business Associate",4656293,"Hacking/IT Incident","Network Server",12,2023
+"Molina Healthcare of Ohio, Inc. ","CA","Health Plan",1977,"Unauthorized Access/Disclosure","Paper/Films",12,2023
+"AccessDx Laboratory, LLC","TX","Healthcare Provider",535,"Hacking/IT Incident","Email",12,2023
+"Insurance ACE/Humana Inc.","KY","Health Plan",2844,"Hacking/IT Incident","Network Server",12,2023
+"360 Physical Therapy, LLC","ND","Healthcare Provider",520,"Theft","Paper/Films",12,2023
+"First Choice Dental","WI","Healthcare Provider",1000,"Hacking/IT Incident","Network Server",12,2023
+"Southeastern Orthopaedic Specialists, PA","NC","Healthcare Provider",35533,"Hacking/IT Incident","Network Server",12,2023
+"Plaza Radiology, LLC","TN","Healthcare Provider",569022,"Hacking/IT Incident","Desktop Computer, Network Server",12,2023
+"CompleteCare Health Network","NJ","Healthcare Provider",313973,"Hacking/IT Incident","Network Server",12,2023
+"Michigan Orthopaedic Surgeons ","MI","Healthcare Provider",67477,"Hacking/IT Incident","Email",12,2023
+"ZOLL Medical Corporation ","MA","Health Plan",8898,"Hacking/IT Incident","Email",12,2023
+"ESO Solutions, Inc. ","TX","Business Associate",2700000,"Hacking/IT Incident","Network Server",12,2023
+"Dallas County","TX","Healthcare Provider",501,"Hacking/IT Incident","Network Server",12,2023
+"Primary Health & Wellness Center, LLC ","MD","Healthcare Provider",4792,"Hacking/IT Incident","Network Server",12,2023
+"Community Memorial Healthcare, Inc.","KS","Healthcare Provider",14798,"Hacking/IT Incident","Network Server",12,2023
+"Erie Family Health Center, Inc. d/b/a Erie Family Health Centers","IL","Healthcare Provider",6351,"Hacking/IT Incident","Email",12,2023
+"Eyefinity, Inc.","CA","Business Associate",1353,"Unauthorized Access/Disclosure","Network Server",12,2023
+"D'Youville Life and Wellness Community, Inc.","MA","Healthcare Provider",501,"Hacking/IT Incident","Network Server",12,2023
+"Mount Carmel Care Center","MA","Healthcare Provider",501,"Hacking/IT Incident","Network Server",12,2023
+"Discount Emporium, Inc. d/b/a Drug Emporium","WV","Healthcare Provider",2500,"Hacking/IT Incident","Network Server",12,2023
+"City of Hope","CA","Healthcare Provider",501,"Hacking/IT Incident","Network Server",12,2023
+"Health Diagnostic Management, LLC","NY","Business Associate",1863,"Hacking/IT Incident","Network Server",12,2023
+"Regional Family Medicine","AR","Healthcare Provider",80166,"Hacking/IT Incident","Network Server",12,2023
+"Cardiothoracic and Vascular Surgeons, P.A.","TX","Healthcare Provider",500,"Hacking/IT Incident","Network Server",12,2023
+"Heart of Texas Behavioral Health Network ","TX","Healthcare Provider",63776,"Hacking/IT Incident","Network Server",12,2023
+"Healix Infusion Therapy, LLC","TX","Business Associate",8341,"Hacking/IT Incident","Network Server",12,2023
+"Keenan & Associates","CA","Health Plan",4631,"Hacking/IT Incident","Network Server",12,2023
+"Health Alliance Hospital Mary's Avenue Campus","NY","Healthcare Provider",264197,"Hacking/IT Incident","Network Server",12,2023
+"New Partners, Inc. d/b/a VNS Health Personal Care","NY","Healthcare Provider",5175,"Hacking/IT Incident","Email",12,2023
+"VNS CHOICE d/b/a VNS Health Health Plans","NY","Health Plan",13584,"Hacking/IT Incident","Email",12,2023
+"United Healthcare Services, Inc. Single Affiliated Covered Entity","CT","Health Plan",4264,"Hacking/IT Incident","Email",12,2023
+"Mercy Medical Center","IA","Healthcare Provider",97132,"Hacking/IT Incident","Network Server",12,2023
+"Independent Living Systems, LLC","FL","Healthcare Provider",19303,"Hacking/IT Incident","Network Server",12,2023
+"Independent Living Systems, LLC","FL","Business Associate",123651,"Hacking/IT Incident","Network Server",12,2023
+"City of Homer","AK","Healthcare Provider",1412,"Loss","Other Portable Electronic Device",12,2023
+"Wichita Urology Group ","KS","Healthcare Provider",5314,"Hacking/IT Incident","Network Server",12,2023
+"Affinity Legacy, Inc.","NY","Health Plan",5538,"Hacking/IT Incident","Network Server",12,2023
+"Prime Healthcare","CA","Healthcare Provider",7185,"Hacking/IT Incident","Network Server",12,2023
+"Akumin Operating Corp.","FL","Healthcare Provider",7127,"Hacking/IT Incident","Network Server",12,2023
+"Hi-School Pharmacy","WA","Healthcare Provider",12779,"Hacking/IT Incident","Network Server",12,2023
+"Waterford Country School","CT","Healthcare Provider",500,"Hacking/IT Incident","Network Server",12,2023
+"Pan-American Life Insurance Group, Inc.","LA","Business Associate",94807,"Hacking/IT Incident","Network Server",12,2023
+"Leggett & Platt Incorporated Employee Benefit Fund","MO","Health Plan",1200,"Hacking/IT Incident","Network Server",12,2023
+"Neurosurgical Associates of New Jersey","NJ","Healthcare Provider",500,"Unauthorized Access/Disclosure","Network Server",12,2023
+"4 Over LLC Group Health Plan","CA","Health Plan",6491,"Hacking/IT Incident","Network Server",12,2023
+"Pan-American Life Insurance Group, Inc.","LA","Health Plan",105387,"Hacking/IT Incident","Network Server",12,2023
+"KY Cabinet for Health and Family Services (CHFS)","KY","Healthcare Provider",2062,"Hacking/IT Incident","Network Server",12,2023
+"Strategic Management LLC","MS","Business Associate",648,"Hacking/IT Incident","Email",12,2023
+"Cardiovascular Consultants Ltd. ","AZ","Healthcare Provider",484000,"Hacking/IT Incident","Network Server",12,2023
+"The Children’s Home of Wyoming Conference","NY","Healthcare Provider",1111,"Hacking/IT Incident","Network Server",12,2023
+"Community Healthcare Network, Inc. ","NY","Healthcare Provider",500,"Hacking/IT Incident","Network Server",11,2023
+"F&E Aviation Holdings, Inc.","FL","Health Plan",3097,"Hacking/IT Incident","Network Server",11,2023
+"Chesapeake Regional Healthcare","VA","Healthcare Provider",31679,"Hacking/IT Incident","Network Server",11,2023
+"W.P. Malone, Inc. d/b/a AllCare Pharmacy","AR","Healthcare Provider",16341,"Hacking/IT Incident","Network Server",11,2023
+"County of Rock, WI","WI","Healthcare Provider",25823,"Hacking/IT Incident","Network Server",11,2023
+"Columbia County Child Abuse Assessment Center dba The Amani Center","OR","Healthcare Provider",2374,"Hacking/IT Incident","Email",11,2023
+"Foursquare Healthcare, Ltd.","TX","Healthcare Provider",10890,"Hacking/IT Incident","Network Server",11,2023
+"Inline Plastics Corp.","CT","Health Plan",4853,"Hacking/IT Incident","Network Server",11,2023
+"Equality Health, LLC","AZ","Healthcare Provider",9240,"Hacking/IT Incident","Email",11,2023
+"Oak Street Health","IL","Healthcare Provider",3238,"Unauthorized Access/Disclosure","Paper/Films",11,2023
+"Montrose Behavioral Health Hospital, Inc.","IL","Healthcare Provider",597,"Hacking/IT Incident","Email",11,2023
+"Morrison Community Hospital District","IL","Healthcare Provider",122488,"Hacking/IT Incident","Network Server",11,2023
+"Molina Healthcare of Iowa, Inc.","IA","Business Associate",1647,"Hacking/IT Incident","Email",11,2023
+"Saisystems International, Inc. ","CT","Business Associate",10063,"Hacking/IT Incident","Network Server",11,2023
+"Sierra County (Department of Public Health, Department of Behavioral Health) ","CA","Healthcare Provider",2463,"Hacking/IT Incident","Email",11,2023
+"East River Medical Imaging, PC","NY","Healthcare Provider",605809,"Hacking/IT Incident","Network Server",11,2023
+"The Charles Lea Center","SC","Healthcare Provider",1250,"Hacking/IT Incident","Network Server",11,2023
+"Northwest Eye Care Professionals","OR","Healthcare Provider",950,"Hacking/IT Incident","Network Server",11,2023
+"Columbus Aesthetic and Plastic Surgery","OH","Healthcare Provider",12677,"Hacking/IT Incident","Network Server",11,2023
+"Berry, Dunn, McNeil & Parker, LLC","ME","Business Associate",500,"Hacking/IT Incident","Network Server",11,2023
+"U.S. Drug Mart, Inc.","TX","Healthcare Provider",13016,"Hacking/IT Incident","Network Server, Other",11,2023
+"TGI Direct, Inc.","MI","Business Associate",16113,"Hacking/IT Incident","Network Server",11,2023
+"Detroit Chassis, LLC","MI","Health Plan",958,"Hacking/IT Incident","Network Server",11,2023
+"Proliance Surgeons","WA","Healthcare Provider",437392,"Hacking/IT Incident","Network Server",11,2023
+"1st Source Bank","IN","Business Associate",1477,"Hacking/IT Incident","Network Server",11,2023
+"Jacksonville Children's and Multispecialty Clinic","NC","Healthcare Provider",40000,"Hacking/IT Incident","Network Server",11,2023
+"CKF Addiction Treatment, Inc.","KS","Healthcare Provider",501,"Hacking/IT Incident","Email",11,2023
+"Community Health Network, Inc.","IN","Healthcare Provider",2271,"Hacking/IT Incident","Email, Other",11,2023
+"Psychiatry Associates of Kansas City","KS","Healthcare Provider",18255,"Hacking/IT Incident","Network Server",11,2023
+"Wyoming County Community Health System","NY","Healthcare Provider",26000,"Hacking/IT Incident","Network Server",11,2023
+"State of Maine","ME","Health Plan",376504,"Hacking/IT Incident","Network Server",11,2023
+"Rock Valley Physical Therapy Center","IL","Healthcare Provider",2421,"Unauthorized Access/Disclosure","Email",11,2023
+"CareTree, Inc.","IL","Business Associate",1097,"Hacking/IT Incident","Network Server",11,2023
+"Westside Community Services","CA","Healthcare Provider",2484,"Hacking/IT Incident","Network Server",11,2023
+"International Paper Company Group Health and Welfare Plan (the ""IP Plan"")","TN","Health Plan",78692,"Hacking/IT Incident","Network Server",11,2023
+"Medical Eye Services, Inc.","NY","Business Associate",377931,"Hacking/IT Incident","Network Server",11,2023
+"Endocrine and Psychiatry Center","TX","Healthcare Provider",28531,"Hacking/IT Incident","Network Server",11,2023
+"Southwest Behavioral Health Center","UT","Healthcare Provider",17147,"Hacking/IT Incident","Network Server",11,2023
+"CBIZ KA Consulting Services, LLC","NJ","Business Associate",30806,"Hacking/IT Incident","Network Server",11,2023
+"Woodfords Family Services","ME","Healthcare Provider",6691,"Hacking/IT Incident","Network Server",11,2023
+"Southland Integrated Services, Inc.","CA","Healthcare Provider",7988,"Hacking/IT Incident","Network Server",11,2023
+"Healix Infusion Therapy, LLC","TX","Healthcare Provider",501,"Hacking/IT Incident","Network Server",11,2023
+"Warren General Hospital ","PA","Healthcare Provider",168921,"Hacking/IT Incident","Network Server",11,2023
+"Mariner Management Group ","OH","Healthcare Provider",1756,"Hacking/IT Incident","Network Server",11,2023
+"BBRx Pharmacy","NY","Healthcare Provider",501,"Hacking/IT Incident","Network Server",11,2023
+"Mannings 8th Ave Inc.","NY","Healthcare Provider",501,"Hacking/IT Incident","Network Server",11,2023
+"Confucius Pharmacy","NY","Healthcare Provider",501,"Hacking/IT Incident","Network Server",11,2023
+"Pharmacy Group of Mississippi, LLC","MS","Healthcare Provider",13129,"Hacking/IT Incident","Network Server",11,2023
+"Prestige Care, Inc.","WA","Healthcare Provider",501,"Hacking/IT Incident","Network Server",11,2023
+"Welltok, Inc.","CO","Business Associate",8493379,"Hacking/IT Incident","Network Server",11,2023
+"Wyndemere Senior Care LLC","IL","Healthcare Provider",607,"Hacking/IT Incident","Network Server",11,2023
+"WellLife Network Inc.","NY","Healthcare Provider",501,"Hacking/IT Incident","Network Server",11,2023
+"Healthsoft LLC","GA","Business Associate",1000,"Hacking/IT Incident","Network Server",11,2023
+"Financial Asset Management Systems (""FAMS"")","GA","Business Associate",164796,"Hacking/IT Incident","Network Server",11,2023
+"South Austin Health Imaging LLC dba Longhorn Imaging Center","TX","Healthcare Provider",100643,"Hacking/IT Incident","Network Server",11,2023
+"Perry Johnson & Associates, Inc., which does business as PJ&A","NV","Business Associate",8952212,"Hacking/IT Incident","Network Server",11,2023
+"Catholic Charities of the Diocese of Rockville Centre d/b/a Catholic Charities of Long Island","NY","Healthcare Provider",13000,"Hacking/IT Incident","Network Server",11,2023
+"Youth and Shelter Services, Inc.","IA","Healthcare Provider",501,"Hacking/IT Incident","Network Server",11,2023
+"WACOSA","MN","Healthcare Provider",1380,"Hacking/IT Incident","Network Server",11,2023
+"Westat, Inc.","MD","Business Associate",20045,"Hacking/IT Incident","Network Server",11,2023
+"Mulkay Cardiology Consultants at Holy Name Medical Center, P.C.","NJ","Healthcare Provider",79582,"Hacking/IT Incident","Network Server",11,2023
+"Postmeds, Inc.","CA","Healthcare Provider",2364359,"Hacking/IT Incident","Network Server",10,2023
+"Longhorn Village","TX","Healthcare Provider",1670,"Hacking/IT Incident","Email",10,2023
+"Frederiksted Health Care, Inc.","","Healthcare Provider",600,"Hacking/IT Incident","Network Server",10,2023
+"Northern Iowa Therapy PC","IA","Business Associate",5100,"Hacking/IT Incident","Network Server",10,2023
+"JDA eHealth Systems, Inc. d/b/a Parathon","IL","Business Associate",8099,"Hacking/IT Incident","Network Server",10,2023
+"PeakMed","CO","Healthcare Provider",27800,"Hacking/IT Incident","Network Server",10,2023
+"Pause Pain & Wellness","MS","Healthcare Provider",777,"Unauthorized Access/Disclosure","Email",10,2023
+"Hospital Sisters Health System","IL","Business Associate",500,"Hacking/IT Incident","Network Server",10,2023
+"Greater Rochester Independent Practice Association, Inc.","NY","Healthcare Provider",279156,"Hacking/IT Incident","Network Server",10,2023
+"Western Washington Medical Group ","MS","Healthcare Provider",350863,"Hacking/IT Incident","Network Server",10,2023
+"Fredericksburg Foot & Ankle Center, PLC","VA","Healthcare Provider",14912,"Hacking/IT Incident","Network Server",10,2023
+"Edward C. Taylor, PhD., PL","FL","Healthcare Provider",6684,"Hacking/IT Incident","Desktop Computer, Network Server",10,2023
+"LCS Financial Services","CO","Business Associate",768,"Hacking/IT Incident","Network Server",10,2023
+"eleHealth","LA","Business Associate",2187,"Unauthorized Access/Disclosure","Paper/Films",10,2023
+"University of Michigan, on behalf of certain HIPAA-covered functions of the University that operate as a HIPAA hybrid entity","MI","Healthcare Provider",61033,"Hacking/IT Incident","Network Server",10,2023
+"Dakota Eye Institute","ND","Healthcare Provider",107143,"Hacking/IT Incident","Network Server",10,2023
+"La Red Health Center","DE","Healthcare Provider",39759,"Hacking/IT Incident","Network Server",10,2023
+"McLaren Health Care","MI","Healthcare Provider",501,"Hacking/IT Incident","Network Server",10,2023
+"City of Philadelphia ","PA","Health Plan",501,"Hacking/IT Incident","Email",10,2023
+"Radius Global Solutions","PA","Business Associate",135742,"Hacking/IT Incident","Network Server",10,2023
+"Counseling and Recovery Services of Oklahoma","OK","Healthcare Provider",3365,"Hacking/IT Incident","Email",10,2023
+"Hospital & Medical Foundation of Paris, Inc","IL","Healthcare Provider",16598,"Hacking/IT Incident","Network Server",10,2023
+"Napa Integrated Medicine PC","CA","Business Associate",600,"Theft","Desktop Computer",10,2023
+"Oscar Insurance Company of Florida","NY","Health Plan",1045,"Hacking/IT Incident","Network Server",10,2023
+"Singing River Health System and its wholly owned subsidiary, Singing River Gulfport","MS","Healthcare Provider",501,"Hacking/IT Incident","Network Server",10,2023
+"BHI Energy Health and Welfare Benefits Plan","MA","Health Plan",4049,"Hacking/IT Incident","Network Server",10,2023
+"Helping the Aging Needy and Disabled Inc","TX","Healthcare Provider",628,"Hacking/IT Incident","Email",10,2023
+"Peerstar LLC","PA","Healthcare Provider",11438,"Hacking/IT Incident","Network Server",10,2023
+"Westat, Inc.","MD","Business Associate",51513,"Hacking/IT Incident","Network Server",10,2023
+"Atlas Healthcare CT","CT","Healthcare Provider",10831,"Unauthorized Access/Disclosure","Network Server",10,2023
+"NASCO","GA","Business Associate",2956,"Hacking/IT Incident","Network Server",10,2023
+"BHS Physician Network, Inc. ","TX","Healthcare Provider",1857,"Hacking/IT Incident","Email",10,2023
+"Data Media Associates","GA","Business Associate",2035,"Unauthorized Access/Disclosure","Paper/Films",10,2023
+"Fellowship Village","NJ","Healthcare Provider",501,"Hacking/IT Incident","Network Server",10,2023
+"Neurovative Diagnostics, LLC","TX","Healthcare Provider",1599,"Unauthorized Access/Disclosure","Email",10,2023
+"Carle Health ","IL","Healthcare Provider",679,"Hacking/IT Incident","Network Server",10,2023
+"Region 4 South Mental Health Consortium","MN","Healthcare Provider",571,"Hacking/IT Incident","Network Server",10,2023
+"Borgfeld Dental Center PLLC dba Henwood Family Dentistry","TX","Healthcare Provider",7300,"Unauthorized Access/Disclosure","Electronic Medical Record, Network Server",10,2023
+"Arietis Health, LLC","FL","Business Associate",1975066,"Hacking/IT Incident","Network Server",9,2023
+"Piedmont Healthcare, Inc.","GA","Healthcare Provider",895,"Hacking/IT Incident","Network Server",9,2023
+"Valley Mountain Regional Center ","CA","Business Associate",126679,"Hacking/IT Incident","Network Server",9,2023
+"Physio Logic Medicine, PC","NY","Healthcare Provider",1280,"Hacking/IT Incident","Network Server",9,2023
+"International Business Machines Corporation","NY","Business Associate",630755,"Unauthorized Access/Disclosure","Other",9,2023
+"Physio Logic Chiropractic and Physical Therapy, PLLC and Dr. Patty DiBlasio, PC","NY","Healthcare Provider",9580,"Hacking/IT Incident","Network Server",9,2023
+"Georgia Northside Ear, Nose, and Throat, LLC.","TX","Healthcare Provider",37774,"Hacking/IT Incident","Email",9,2023
+"Greater Dallas Healthcare Enterprises","TX","Healthcare Provider",143833,"Hacking/IT Incident","Email",9,2023
+"South Florida Behavioral Health Network ","FL","Business Associate",2729,"Hacking/IT Incident","Network Server",9,2023
+"Acadia Health, LLC d/b/a Just Kids Dental","AL","Healthcare Provider",129463,"Hacking/IT Incident","Network Server",9,2023
+"Hospice of the Bluegrass, Inc. dba Bluegrass Care Navigators","KY","Healthcare Provider",6814,"Hacking/IT Incident","Email",9,2023
+"Entertainment Community Fund, dba Actors Fund Home","NJ","Healthcare Provider",1110,"Hacking/IT Incident","Network Server",9,2023
+"AIDS Alabama, Inc.","AL","Healthcare Provider",1922,"Hacking/IT Incident","Network Server",9,2023
+"Community First Medical Center","IL","Healthcare Provider",216047,"Hacking/IT Incident","Network Server",9,2023
+"Riverdale Mental Health d/b/a Mosaic Mental Health ","NY","Healthcare Provider",7281,"Hacking/IT Incident","Network Server",9,2023
+"Tangoe, Inc.","IN","Health Plan",718,"Hacking/IT Incident","Network Server",9,2023
+"Cook County Health and Hospitals System","IL","Healthcare Provider",500,"Hacking/IT Incident","Network Server",9,2023
+"Navvis & Company, LLC","MO","Business Associate",917,"Hacking/IT Incident","Network Server",9,2023
+"OrthoAlaska, LLC","AK","Healthcare Provider",176203,"Hacking/IT Incident","Network Server",9,2023
+"Clover Health LLC","NJ","Health Plan",2834,"Unauthorized Access/Disclosure","Network Server",9,2023
+"Indiana University Health","IN","Healthcare Provider",4194,"Hacking/IT Incident","Network Server",9,2023
+"Health First, Inc.","FL","Healthcare Provider",14171,"Hacking/IT Incident","Email",9,2023
+"Wellstar Health System","GA","Healthcare Provider",728,"Hacking/IT Incident","Network Server",9,2023
+"Lakeview Clinic ","MN","Healthcare Provider",624,"Unauthorized Access/Disclosure","Email",9,2023
+"Arkansas Total Care, Inc.","AR","Health Plan",578,"Hacking/IT Incident","Network Server",9,2023
+"Elevate Patient Financial Solutions","TX","Business Associate",5364,"Unauthorized Access/Disclosure","Paper/Films",9,2023
+"Erlanger Health, Inc.","TN","Healthcare Provider",2753,"Hacking/IT Incident","Network Server",9,2023
+"Temple University Health System,Inc.","PA","Healthcare Provider",430381,"Hacking/IT Incident","Network Server",9,2023
+"Founder Project Rx, Inc.","TX","Healthcare Provider",30836,"Hacking/IT Incident","Email",9,2023
+"Peach State Health Plan","GA","Health Plan",1246,"Hacking/IT Incident","Network Server",9,2023
+"Advocates for a Healthy Community Inc dba Jordan Valley Community Health Center","MO","Healthcare Provider",2502,"Unauthorized Access/Disclosure","Electronic Medical Record",9,2023
+"VA Dept. of Medical Assistance Services","VA","Health Plan",928,"Hacking/IT Incident","Network Server",9,2023
+"Pharm-Pacc Corporation","FL","Business Associate",3749,"Hacking/IT Incident","Network Server",9,2023
+"Sutter North Surgery Center ","CA","Healthcare Provider",861,"Hacking/IT Incident","Network Server",9,2023
+"Laboratory Corporation of America Holdings dba LabCorp","NC","Healthcare Provider",1431,"Unauthorized Access/Disclosure","Paper/Films",9,2023
+"Ryders Health Management LLC ","CT","Healthcare Provider",7252,"Hacking/IT Incident","Network Server",9,2023
+"United Healthcare Services, Inc. Single Affiliated Covered Entity","CT","Health Plan",315915,"Unauthorized Access/Disclosure","Network Server",9,2023
+"Amerita","KS","Healthcare Provider",219707,"Hacking/IT Incident","Network Server",9,2023
+"Delta Dental of California","CA","Health Plan",501,"Hacking/IT Incident","Network Server",9,2023
+"Georgia Hand, Shoulder & Elbow, PC","GA","Healthcare Provider",20498,"Hacking/IT Incident","Email",9,2023
+"Bloom Health Centers","MD","Healthcare Provider",1545,"Unauthorized Access/Disclosure","Email",9,2023
+"North Mississippi Medical Center, Inc.","MS","Healthcare Provider",950,"Hacking/IT Incident","Email",9,2023
+"MedMinder Systems, Inc.","MA","Healthcare Provider",12146,"Hacking/IT Incident","Network Server",9,2023
+"Enzo Clinical Labs, Inc.","NY","Healthcare Provider",1700,"Hacking/IT Incident","Network Server",8,2023
+"Mountain View Family Practice, PC","MA","Healthcare Provider",5139,"Hacking/IT Incident","Electronic Medical Record, Network Server",8,2023
+"PurFoods, LLC","IA","Healthcare Provider",1229333,"Hacking/IT Incident","Network Server",8,2023
+"Associates in Pediatric Dentistry","LA","Healthcare Provider",9703,"Hacking/IT Incident","Email",8,2023
+"Data Media Associates","GA","Business Associate",74730,"Hacking/IT Incident","Other",8,2023
+"Detroit Central City Community Mental Health","MI","Healthcare Provider",1412,"Hacking/IT Incident","Email",8,2023
+"Milan Eye Center","GA","Healthcare Provider",67336,"Hacking/IT Incident","Network Server",8,2023
+"PRIME THERAPEUTICS LLC","MN","Business Associate",6050,"Hacking/IT Incident","Network Server",8,2023
+"Vecino Health Centers","TX","Healthcare Provider",1339,"Hacking/IT Incident","Network Server",8,2023
+"Serco Inc. Group Health Plan","VA","Health Plan",10140,"Hacking/IT Incident","Network Server",8,2023
+"Absolute Dental Services","NC","Business Associate",10037,"Hacking/IT Incident","Email",8,2023
+"McAlester Regional Health Center","OK","Healthcare Provider",37731,"Hacking/IT Incident","Desktop Computer, Network Server",8,2023
+"Advanced Reproductive Health Center Ltd., d/b/a Chicago IVF","IL","Healthcare Provider",2603,"Hacking/IT Incident","Network Server",8,2023
+"UofL Health ","KY","Healthcare Provider",8175,"Hacking/IT Incident","Network Server",8,2023
+"Aspen Dental Management, Inc.","NY","Business Associate",62183,"Hacking/IT Incident","Network Server",8,2023
+"TAG Urgent Care Support Services, LLC","NY","Business Associate",516985,"Hacking/IT Incident","Network Server",8,2023
+"SouthCoast Medical Group, LLC","GA","Healthcare Provider",501,"Hacking/IT Incident","Network Server",8,2023
+"Morris Hospital & Healthcare Centers","IL","Healthcare Provider",248943,"Hacking/IT Incident","Network Server",8,2023
+"The Harris Center for Mental Health and IDD","TX","Healthcare Provider",599367,"Hacking/IT Incident","Network Server",8,2023
+"SysInformation Healthcare Services, LLC","TX","Business Associate",501,"Hacking/IT Incident","Network Server",8,2023
+"United Healthcare Services, Inc. Single Affiliated Covered Entity","CT","Health Plan",527,"Hacking/IT Incident","Network Server",8,2023
+"Baesman Group, Inc.","OH","Business Associate",24757,"Hacking/IT Incident","Network Server",8,2023
+"SUNY at Buffalo School of Dental Medicine","NY","Healthcare Provider",765,"Hacking/IT Incident","Network Server",8,2023
+"Kennedy University Hospital, Inc. t/a Jefferson Health ","NJ","Healthcare Provider",4140,"Unauthorized Access/Disclosure","Other Portable Electronic Device",8,2023
+"University of Utah ","UT","Health Plan",3914,"Hacking/IT Incident","Network Server",8,2023
+"Monocacy Valley Dental Brian K. Motz, DDS, PC","MD","Healthcare Provider",4000,"Theft","Laptop",8,2023
+"Nice Pak Products Inc., Health and Welfare Benefits Plan","NJ","Health Plan",8487,"Hacking/IT Incident","Network Server",8,2023
+"TRACT Radiology","MS","Business Associate",7810,"Hacking/IT Incident","Network Server",8,2023
+"VNS Health Plans","NY","Health Plan",103775,"Hacking/IT Incident","Network Server",8,2023
+"Colorado Department of Health Care Policy & Financing","CO","Health Plan",4091794,"Hacking/IT Incident","Network Server",8,2023
+"El Centro Del Barrio d/b/a CentroMed","TX","Healthcare Provider",350000,"Hacking/IT Incident","Network Server",8,2023
+"Coastal Orthopedics & Sports Medicine of Southwest Florida","FL","Healthcare Provider",501,"Hacking/IT Incident","Network Server",8,2023
+"Allison Transmission Inc. Health Care Program for Hourly Employees / Wellness Program for Salaried Employees","IN","Business Associate",5330,"Hacking/IT Incident","Network Server",8,2023
+"Lurie Children’s Surgical Foundation ","IL","Healthcare Provider",1997,"Hacking/IT Incident","Network Server",8,2023
+"Harris Eye Care","MI","Healthcare Provider",6267,"Hacking/IT Incident","Network Server",8,2023
+"Premera Blue Cross","WA","Health Plan",33212,"Hacking/IT Incident","Network Server",8,2023
+"Spinal and Sports Care Clinic PS","WA","Healthcare Provider",1100,"Hacking/IT Incident","Network Server",8,2023
+"Missouri Department of Social Services","MO","Health Plan",739884,"Hacking/IT Incident","Network Server",8,2023
+"Cranberry Township Emergency Medical Service","PA","Healthcare Provider",1247,"Hacking/IT Incident","Network Server",8,2023
+"Gary Motykie, M.D., a Medical Corporation ","CA","Healthcare Provider",3400,"Hacking/IT Incident","Desktop Computer, Network Server",8,2023
+"Radius Global Solutions","MN","Business Associate",600794,"Hacking/IT Incident","Network Server",8,2023
+"Maximus, Inc.","VA","Business Associate",9179226,"Hacking/IT Incident","Network Server",8,2023
+"Capital Neurological Surgeons","CA","Healthcare Provider",1769,"Hacking/IT Incident","Email",8,2023
+"Unum Group SACE","TN","Health Plan",531732,"Hacking/IT Incident","Network Server",8,2023
+"Self-insured group health plans sponsored by the City of Dallas","TX","Health Plan",30253,"Hacking/IT Incident","Network Server",8,2023
+"Advanced Care Partners, LLC","GA","Healthcare Provider",518,"Unauthorized Access/Disclosure","Email",8,2023
+"Plumbers Local 8 Health & Welfare Fund","MO","Health Plan",4790,"Hacking/IT Incident","Email",8,2023
+"Grane Supply, Inc.","PA","Healthcare Provider",798,"Unauthorized Access/Disclosure","Email",8,2023
+"HCA Healthcare","TN","Business Associate",11270000,"Hacking/IT Incident","Other",7,2023
+"Howard County General Hospital","MD","Healthcare Provider",2975,"Hacking/IT Incident","Network Server",7,2023
+"Synergy Healthcare Services","GA","Business Associate",25772,"Hacking/IT Incident","Network Server",7,2023
+"UC Davis Health","CA","Healthcare Provider",3201,"Hacking/IT Incident","Email",7,2023
+"Dean Health Service Company, LLC (referenced herein as ""WellFirst Health"")","MN","Business Associate",1027,"Hacking/IT Incident","Network Server",7,2023
+"United Healthcare Services, Inc. Single Affiliated Covered Entity","CT","Health Plan",398319,"Hacking/IT Incident","Network Server",7,2023
+"Jefferson County Health Center","IA","Healthcare Provider",53827,"Hacking/IT Incident","Network Server",7,2023
+"The Chattanooga Heart Institute","TN","Healthcare Provider",170450,"Hacking/IT Incident","Network Server",7,2023
+"Florida Health Sciences Center, Inc. dba Tampa General Hospital ","FL","Healthcare Provider",2430920,"Hacking/IT Incident","Network Server",7,2023
+"Centers for Medicare & Medicaid Services","MD","Health Plan",2342357,"Hacking/IT Incident","Network Server",7,2023
+"CareSource","OH","Business Associate",3180537,"Unauthorized Access/Disclosure","Network Server",7,2023
+"Hillsborough County, Florida (County Government)","FL","Healthcare Provider",70636,"Hacking/IT Incident","Network Server",7,2023
+"Life Management Center of Northwest Florida, Inc. ","FL","Healthcare Provider",19107,"Hacking/IT Incident","Network Server",7,2023
+"Family Vision of Anderson, P.A.","SC","Healthcare Provider",62631,"Hacking/IT Incident","Network Server",7,2023
+"Bi-Bett Corporation","CA","Business Associate",4722,"Hacking/IT Incident","Email",7,2023
+"UT Southwestern Medical Center","TX","Healthcare Provider",98437,"Hacking/IT Incident","Network Server",7,2023
+"Sutter Senior Care ","CA","Healthcare Provider",519,"Hacking/IT Incident","Network Server",7,2023
+"Paramedic Billing Services","IL","Healthcare Clearing House",501,"Hacking/IT Incident","Network Server",7,2023
+"Harris County Hospital District d/b/a Harris Health System ","TX","Healthcare Provider",455676,"Hacking/IT Incident","Network Server",7,2023
+"Batesville Tool & Die, Inc.","IN","Health Plan",574,"Hacking/IT Incident","Network Server",7,2023
+"Pennsylvania Department of Human Services","PA","Healthcare Provider",16390,"Unauthorized Access/Disclosure","Network Server",7,2023
+"New England Life Care, Inc.","ME","Healthcare Provider",51854,"Hacking/IT Incident","Network Server",7,2023
+"Mindful Innovations, PLLC","NC","Healthcare Provider",1900,"Hacking/IT Incident","Desktop Computer, Electronic Medical Record, Email, Laptop",7,2023
+"Associated Pathologists, LLC dba PathGroup Health Plan","TN","Health Plan",2031,"Hacking/IT Incident","Network Server",7,2023
+"ACUPUNCTURE AND INTEGRATIVE SOLUTIONS INCORPORATED","OH","Healthcare Provider",750,"Hacking/IT Incident","Network Server",7,2023
+"IVF Michigan, P.C.","MI","Healthcare Provider",9383,"Hacking/IT Incident","Network Server",7,2023
+"Fairfax Oral and Maxillofacial Surgery ","VA","Healthcare Provider",208194,"Hacking/IT Incident","Network Server",7,2023
+"The Pavillion at Health Park, LLC dba Park Royal Hospital","FL","Healthcare Provider",500,"Hacking/IT Incident","Email",7,2023
+"Wake Family Eye Care","NC","Healthcare Provider",14264,"Hacking/IT Incident","Network Server",7,2023
+"Beacon Specialized Living","MI","Healthcare Provider",3338,"Hacking/IT Incident","Network Server",7,2023
+"East Houston Medicine and Pediatrics Clinic","TX","Healthcare Provider",13184,"Loss","Paper/Films",7,2023
+"Kansas Joint & Spine Specialists ","KS","Healthcare Provider",83869,"Hacking/IT Incident","Network Server",7,2023
+"Konen & Associates dba Unified Pain Management ","TX","Healthcare Provider",500,"Hacking/IT Incident","Email",7,2023
+"Aria Care Partners ","KS","Healthcare Provider",77405,"Hacking/IT Incident","Network Server",7,2023
+"Charles George Department of Veterans Affairs Medical Center","NC","Healthcare Provider",1541,"Unauthorized Access/Disclosure","Email",7,2023
+"The Vitality Group, LLC","IL","Business Associate",17971,"Hacking/IT Incident","Network Server",7,2023
+"Catholic Charities of the Archdiocese of Newark","NJ","Healthcare Provider",9895,"Hacking/IT Incident","Network Server",7,2023
+"Precision Anesthesia Billing LLC","FL","Business Associate",209200,"Hacking/IT Incident","Network Server",7,2023
+"Miracle-Ear Flagship, LLC","MN","Healthcare Provider",3560,"Hacking/IT Incident","Email",7,2023
+"Parsley Health, Inc. ","NY","Business Associate",1004,"Unauthorized Access/Disclosure","Network Server",7,2023
+"Norton Healthcare Inc.","KY","Healthcare Provider",501,"Hacking/IT Incident","Network Server",7,2023
+"Public Health Management Corporation","PA","Healthcare Provider",501,"Hacking/IT Incident","Network Server",7,2023
+"edgeMED Healthcare, LLC","FL","Business Associate",6700,"Hacking/IT Incident","Network Server",7,2023
+"Phoenician Medical Center, Inc","AZ","Healthcare Provider",162500,"Hacking/IT Incident","Network Server",7,2023
+"ARx Patient Solutions","KS","Healthcare Provider",41166,"Unauthorized Access/Disclosure","Email",6,2023
+"Mount Desert Island Hospital, Inc.","ME","Healthcare Provider",29952,"Hacking/IT Incident","Network Server",6,2023
+"South Suburban Surgical Suites, LLC","IN","Healthcare Provider",5340,"Hacking/IT Incident","Email",6,2023
+"Advanced Medical Management, LLC","MD","Business Associate",319485,"Hacking/IT Incident","Network Server",6,2023
+"Partnership Health Center","MT","Healthcare Provider",8331,"Unauthorized Access/Disclosure","Email",6,2023
+"Henrietta Johnson Medical Center","DE","Healthcare Provider",500,"Hacking/IT Incident","Network Server",6,2023
+"Activate Healthcare LLC","IL","Healthcare Provider",93761,"Hacking/IT Incident","Network Server",6,2023
+"Desert Physicians Management","CA","Business Associate",63713,"Hacking/IT Incident","Network Server",6,2023
+"Vitra Home Care, LLC","MA","Business Associate",658,"Hacking/IT Incident","Email",6,2023
+"Limbach Facility Services LLC Group Benefit Plan","PA","Health Plan",1392,"Hacking/IT Incident","Network Server",6,2023
+"DMS Health Technologies, Inc. ","ND","Healthcare Provider",48336,"Hacking/IT Incident","Network Server",6,2023
+"Murfreesboro Medical Clinic & SurgiCenter","TN","Healthcare Provider",559000,"Hacking/IT Incident","Network Server",6,2023
+"Community Research Foundation","CA","Healthcare Provider",30236,"Hacking/IT Incident","Network Server",6,2023
+"Quatela Center for Plastic Surgery","NY","Healthcare Provider",1085,"Unauthorized Access/Disclosure","Email",6,2023
+"Peachtree Orthopaedic Clinic, P.A.","GA","Healthcare Provider",34691,"Hacking/IT Incident","Network Server",6,2023
+"Atrium Health Wake Forest Baptist ","NC","Healthcare Provider",3679,"Hacking/IT Incident","Email",6,2023
+"New Horizons Medical, Inc","MA","Healthcare Provider",12317,"Hacking/IT Incident","Network Server",6,2023
+"Parker Drilling Company Group Health and Flexible Benefit Plan","TX","Health Plan",5973,"Hacking/IT Incident","Network Server",6,2023
+"Great Valley Cardiology","PA","Healthcare Provider",181764,"Hacking/IT Incident","Network Server",6,2023
+"Idaho Department of Health & Welfare","ID","Health Plan",2501,"Unauthorized Access/Disclosure","Network Server",6,2023
+"Uponor North America","MN","Health Plan",1048,"Hacking/IT Incident","Network Server",6,2023
+"Intellihartx, LLC","TN","Business Associate",489830,"Hacking/IT Incident","Network Server",6,2023
+"Marshall & Melhorn, LLC","OH","Business Associate",9412,"Hacking/IT Incident","Network Server",6,2023
+"Utah Medicaid, Division of Integrated Healthcare: Utah Department of Health and Human Services","UT","Health Plan",5800,"Unauthorized Access/Disclosure","Paper/Films",6,2023
+"Enzo Clinical Labs, Inc.","NY","Healthcare Provider",2470000,"Hacking/IT Incident","Network Server",6,2023
+"South Jersey Behavorial Health Resources, Inc.","NJ","Healthcare Provider",501,"Hacking/IT Incident","Network Server",6,2023
+"John N. Evans, DPM","MI","Healthcare Provider",15512,"Hacking/IT Incident","Network Server",6,2023
+"Unified Operations Virginia LP","FL","Business Associate",501,"Hacking/IT Incident","Network Server",6,2023
+"Mississippi Children’s Home Society, CARES Center, Inc., Mississippi Children’s Home Services, Inc., d.b.a. Canopy Children’s Solutions","MS","Healthcare Provider",501,"Hacking/IT Incident","Network Server",6,2023
+"CareNet Medical Group, PC","NY","Healthcare Provider",10059,"Hacking/IT Incident","Network Server",6,2023
+"Classic Residence Management Limited Partnership","IL","Healthcare Provider",12405,"Hacking/IT Incident","Network Server",6,2023
+"Elgon Information Systems","MA","Business Associate",31248,"Hacking/IT Incident","Network Server",6,2023
+"EpiSource","MN","Business Associate",1206,"Hacking/IT Incident","Network Server",6,2023
+"Petaluma Health Center","CA","Healthcare Provider",124862,"Hacking/IT Incident","Network Server",6,2023
+"Pain Relief Centers PA","NC","Healthcare Provider",7000,"Unauthorized Access/Disclosure","Electronic Medical Record",6,2023
+"iSpace, Inc.","CA","Business Associate",24382,"Hacking/IT Incident","Network Server",5,2023
+"Builders FirstSource Flex Plan","TX","Health Plan",3690,"Hacking/IT Incident","Network Server",5,2023
+"Onix Group","PA","Business Associate",319500,"Hacking/IT Incident","Network Server",5,2023
+"North Shore Medical Labs","NY","Healthcare Provider",500,"Hacking/IT Incident","Network Server",5,2023
+"Sparta Community Hospital District","IL","Healthcare Provider",900,"Hacking/IT Incident","Email",5,2023
+"Managed Care of North America (MCNA)","GA","Business Associate",8861076,"Hacking/IT Incident","Network Server",5,2023
+"South Jersey Behavioral Health Resources, Inc.","NJ","Healthcare Provider",2193,"Hacking/IT Incident","Email",5,2023
+"Valley Orthopaedic Specialists","CT","Healthcare Provider",5062,"Hacking/IT Incident","Network Server",5,2023
+"Lancaster Orthopedic Group","PA","Healthcare Provider",1784,"Hacking/IT Incident","Network Server",5,2023
+"Albany ENT & Allergy Services, PC.","NY","Healthcare Provider",224486,"Hacking/IT Incident","Network Server",5,2023
+"Asian Health Services","CA","Healthcare Provider",6270,"Hacking/IT Incident","Email",5,2023
+"Goodwill Industries of Greater New York and Northern NJ, Inc.","NY","Healthcare Provider",805,"Hacking/IT Incident","Email",5,2023
+"Vascular Center of Intervention, Inc.","CA","Healthcare Provider",3833,"Hacking/IT Incident","Network Server",5,2023
+"Harvard Pilgrim Health Care","MA","Health Plan",2624191,"Hacking/IT Incident","Network Server",5,2023
+"MedInform, Inc.","OH","Business Associate",14453,"Hacking/IT Incident","Network Server",5,2023
+"UI Community Home Care, a subsidiary of University of Iowa Health System ","IA","Healthcare Provider",67897,"Hacking/IT Incident","Electronic Medical Record, Network Server",5,2023
+"Grant Regional Health Center","WI","Healthcare Provider",4135,"Hacking/IT Incident","Email",5,2023
+"PillPack LLC","NH","Healthcare Provider",19032,"Hacking/IT Incident","Network Server",5,2023
+"University of Missouri Health Care ","MO","Healthcare Provider",736,"Unauthorized Access/Disclosure","Electronic Medical Record",5,2023
+"Clarke County Hospital   ","IA","Healthcare Provider",28003,"Hacking/IT Incident","Network Server",5,2023
+"State of New Jersey Department of Human Services, Division of Medical Assistance and Health Service","NJ","Health Plan",552,"Unauthorized Access/Disclosure","Electronic Medical Record, Other",5,2023
+"Buckeye Health Plan","OH","Health Plan",686,"Unauthorized Access/Disclosure","Email",5,2023
+"Essen Medical Associates, P.C.","NY","Healthcare Provider",500,"Hacking/IT Incident","Network Server",5,2023
+"Lehigh Valley Health Network (blackcat)","PA","Healthcare Provider",248359,"Hacking/IT Incident","Network Server",5,2023
+"R&B Corporation of Virginia d/b/a Credit Control Corporation","VA","Business Associate",345523,"Hacking/IT Incident","Network Server",5,2023
+"PharMerica Corporation","KY","Healthcare Provider",5815591,"Hacking/IT Incident","Network Server",5,2023
+"Illinois Department of Healthcare and Family Services, Illinois Department of Human Services","IL","Health Plan",50839,"Hacking/IT Incident","Network Server",5,2023
+"IMA Financial Group, Inc.","KS","Business Associate",5242,"Hacking/IT Incident","Network Server",5,2023
+"Uintah Basin Healthcare","UT","Healthcare Provider",103974,"Hacking/IT Incident","Network Server",5,2023
+"Our Sunday Visitor, Inc.","IN","Health Plan",965,"Hacking/IT Incident","Network Server",5,2023
+"People Incorporated of Sequoyah County","OK","Healthcare Provider",8725,"Hacking/IT Incident","Network Server",5,2023
+"New Mexico Department of Health","NM","Healthcare Provider",49000,"Unauthorized Access/Disclosure","Network Server",5,2023
+"Methodist Family Health","AR","Healthcare Provider",5259,"Hacking/IT Incident","Network Server",5,2023
+"Northwest Health – La Porte","IN","Healthcare Provider",10256,"Unauthorized Access/Disclosure","Paper/Films",5,2023
+"Saint Louis University","MO","Healthcare Provider",48392,"Hacking/IT Incident","Email",5,2023
+"University Urology","NY","Healthcare Provider",56816,"Hacking/IT Incident","Network Server",5,2023
+"Summit Eye & Optical","NJ","Healthcare Provider",5727,"Hacking/IT Incident","Network Server",5,2023
+"Link Audiology LLC","WA","Healthcare Provider",7200,"Hacking/IT Incident","Email",4,2023
+"Grohler Hearing Aid Center, INC DBA Beltone Hearing Aid Centers","VA","Healthcare Provider",5272,"Hacking/IT Incident","Email",4,2023
+"Allina Health","MN","Healthcare Provider",1042,"Unauthorized Access/Disclosure","Network Server",4,2023
+"Unlimited Care, Inc. ","NY","Healthcare Provider",8453,"Hacking/IT Incident","Network Server",4,2023
+"Delphi Drug & Alcohol Council","NY","Healthcare Provider",6288,"Hacking/IT Incident","Email",4,2023
+"University of California, San Francisco","CA","Healthcare Provider",676,"Hacking/IT Incident","Email",4,2023
+"CounSol, LLC","FL","Business Associate",4277,"Unauthorized Access/Disclosure","Network Server",4,2023
+"Lake County Health Department and Community Health Center","IL","Healthcare Provider",17000,"Hacking/IT Incident","Email",4,2023
+"Mars Area School District  ","PA","Health Plan",1270,"Hacking/IT Incident","Network Server",4,2023
+"Upstream RollCo, LLC","AL","Healthcare Provider",748678,"Hacking/IT Incident","Email",4,2023
+"Robeson Health Care Corporation","NC","Healthcare Provider",15045,"Hacking/IT Incident","Network Server",4,2023
+"Modern Cardiology Associates","","Healthcare Provider",10000,"Hacking/IT Incident","Network Server",4,2023
+"Graceworks Lutheran Services","OH","Healthcare Provider",6737,"Hacking/IT Incident","Network Server",4,2023
+"Morgan Stanley","NY","Health Plan",535,"Unauthorized Access/Disclosure","Paper/Films",4,2023
+"Ethan Health, LLC","KY","Healthcare Provider",4047,"Hacking/IT Incident","Email",4,2023
+"MiniMed Distribution Corp.","CA","Healthcare Provider",58374,"Unauthorized Access/Disclosure","Network Server",4,2023
+"Dallas County","TX","Healthcare Provider",501,"Improper Disposal","Desktop Computer",4,2023
+"United Steelworkers Local 286","PA","Health Plan",37965,"Hacking/IT Incident","Email",4,2023
+"Henry County Hospital","OH","Healthcare Provider",3689,"Hacking/IT Incident","Network Server",4,2023
+"NationsBenefits Holdings, LLC","FL","Business Associate",3037303,"Hacking/IT Incident","Network Server",4,2023
+"Cummins Behavioral Health Systems","IN","Healthcare Provider",501,"Hacking/IT Incident","Network Server",4,2023
+"Retina & Vitreous of Texas, PLLC","TX","Healthcare Provider",35766,"Hacking/IT Incident","Network Server",4,2023
+"Iowa Department of Health and Human Services - Iowa Medicaid Enterprise (Iowa HHS-IME)","IA","Health Plan",20815,"Hacking/IT Incident","Network Server",4,2023
+"La Clínica de La Raza, Inc.","CA","Healthcare Provider",15316,"Hacking/IT Incident","Email",4,2023
+"Gretna Family Health","NE","Healthcare Provider",845,"Hacking/IT Incident","Network Server",4,2023
+"NORTHEAST BEHAVIORAL HEALTH CARE CONSORTIUM","PA","Health Plan",13240,"Hacking/IT Incident","Email",4,2023
+"Southwest Healthcare Services","ND","Healthcare Provider",15996,"Hacking/IT Incident","Network Server",4,2023
+"Tallahassee Memorial Healthcare, Inc.","FL","Healthcare Provider",20376,"Hacking/IT Incident","Network Server",3,2023
+"Monument, Inc.","NY","Business Associate",108584,"Unauthorized Access/Disclosure","Network Server",3,2023
+"UHS of Delaware, Inc. ","PA","Business Associate",40290,"Hacking/IT Incident","Email",3,2023
+"ProSmile Holdings, LLC","NJ","Business Associate",39674,"Hacking/IT Incident","Email",3,2023
+"Nonstop Administration and Insurance Services, Inc.","PA","Business Associate",8571,"Hacking/IT Incident","Network Server",3,2023
+"Adams County Children and Youth Services","PA","Healthcare Provider",722,"Hacking/IT Incident","Email",3,2023
+"Atlantic General Hospital","MD","Healthcare Provider",26591,"Hacking/IT Incident","Network Server",3,2023
+"NewYork-Presbyterian Hospital","NY","Healthcare Provider",54396,"Unauthorized Access/Disclosure","Network Server",3,2023
+"Integrated Supports for Living, Inc.","OR","Healthcare Provider",1161,"Hacking/IT Incident","Network Server",3,2023
+"OU Medicine, Inc. d/b/a OU Health","OK","Healthcare Provider",3013,"Theft","Laptop",3,2023
+"Health Plan of San Mateo","CA","Health Plan",11894,"Hacking/IT Incident","Email",3,2023
+"Associates in Dermatology","KY","Healthcare Provider",8517,"Hacking/IT Incident","Network Server",3,2023
+"Community Health Systems Professional Services Corporations (CHSPSC), LLC","TN","Business Associate",962884,"Hacking/IT Incident","Network Server",3,2023
+"UC San Diego Health ","CA","Healthcare Provider",23000,"Unauthorized Access/Disclosure","Network Server, Other",3,2023
+"AllCare Plus Pharmacy, Inc.","MA","Healthcare Provider",757,"Hacking/IT Incident","Email",3,2023
+"Healthy Options dba Postal Prescription Services – Kroger ","OH","Healthcare Provider",82466,"Unauthorized Access/Disclosure","Network Server",3,2023
+"Top of the World Ranch Treatment Center","IL","Healthcare Provider",1980,"Hacking/IT Incident","Email",3,2023
+"NorthStar Emergency Medical Services","AL","Healthcare Provider",82450,"Hacking/IT Incident","Network Server",3,2023
+"ZOLL Services LLC ","MA","Healthcare Provider",997097,"Hacking/IT Incident","Network Server",3,2023
+"Colquitt Complete Care, LLC","GA","Healthcare Provider",1282,"Hacking/IT Incident","Network Server",3,2023
+"Beacon Health System","IN","Healthcare Provider",3117,"Unauthorized Access/Disclosure","Electronic Medical Record",3,2023
+"The M K Morse Company's Health Plan","OH","Health Plan",1378,"Hacking/IT Incident","Network Server",3,2023
+"SundaySky, Inc.","NY","Business Associate",37095,"Hacking/IT Incident","Network Server",3,2023
+"Trinity Health","MI","Business Associate",45350,"Hacking/IT Incident","Email",3,2023
+"Northeast Surgical Group, PC","MI","Healthcare Provider",15298,"Hacking/IT Incident","Network Server",3,2023
+"Denver Public Schools Medical Plans","CO","Health Plan",35068,"Hacking/IT Incident","Network Server",3,2023
+"Codman Square Health Center","MA","Healthcare Provider",10161,"Hacking/IT Incident","Network Server",3,2023
+"MHMR Authority of Brazos Valley ","TX","Healthcare Provider",78984,"Hacking/IT Incident","Network Server",2,2023
+"Community Health Group ","CA","Health Plan",824,"Hacking/IT Incident","Network Server",2,2023
+"eMDs, Inc.","TX","Business Associate",625,"Hacking/IT Incident","Network Server",2,2023
+"Harrisburg Medical Center (“HMC”)","IL","Healthcare Provider",147826,"Hacking/IT Incident","Network Server",2,2023
+"Hutchinson Clinic, P.A. ","KS","Healthcare Provider",100000,"Hacking/IT Incident","Network Server",2,2023
+"Shady Lane Nursing Home","NJ","Healthcare Provider",566,"Hacking/IT Incident","Desktop Computer, Laptop, Network Server",2,2023
+"Jackson Lewis P.C. ","CA","Business Associate",986,"Theft","Other Portable Electronic Device",2,2023
+"Reventics, LLC","FL","Business Associate",4212823,"Hacking/IT Incident","Network Server",2,2023
+"Compass Behavioral Health","KS","Healthcare Provider",537,"Hacking/IT Incident","Email",2,2023
+"Highmark Inc","PA","Business Associate",36600,"Hacking/IT Incident","Email",2,2023
+"Nelson Pharmacy Consulting Services PLC","IA","Healthcare Provider",500,"Hacking/IT Incident","Desktop Computer, Network Server",2,2023
+"Cheyenne Radiology Group & MRI, P.C.","WY","Healthcare Provider",12222,"Hacking/IT Incident","Network Server",2,2023
+"Tattnall County, Georgia","GA","Healthcare Provider",1337,"Hacking/IT Incident","Network Server",2,2023
+"Health Benefit Plan of Bridgewater-Raritan Regional School District","NJ","Health Plan",3909,"Hacking/IT Incident","Network Server",2,2023
+"90 Degree Benefits, Inc.","WI","Business Associate",175000,"Hacking/IT Incident","Network Server",2,2023
+"NR Pennsylvania Associates, LLC","PA","Healthcare Provider",14335,"Hacking/IT Incident","Network Server",2,2023
+"Frank R. Laurri, M.D. and Associates, P.C.","NY","Healthcare Provider",2673,"Unauthorized Access/Disclosure","Electronic Medical Record",2,2023
+"Vitra Health, Inc.","MA","Healthcare Provider",1618,"Hacking/IT Incident","Email",2,2023
+"Cardiovascular Associates","AL","Healthcare Provider",441640,"Hacking/IT Incident","Network Server",2,2023
+"Southeast Colorado Hospital District","CO","Healthcare Provider",1435,"Hacking/IT Incident","Email",2,2023
+"Arizona Health Advantage, Inc. d/b/a Arizona Priority Care; AZPC Clinics, LLC; and the health plans for which APC has executed a BAA, listed below","AZ","Healthcare Provider",10978,"Hacking/IT Incident","Network Server",2,2023
+"Regal Medical Group,Lakeside Medical Organization, ADOC Acquisition, & Greater Covina Medical Group","CA","Healthcare Provider",3388856,"Hacking/IT Incident","Network Server",2,2023
+"Brooks Rehabilitation","FL","Healthcare Provider",1554,"Unauthorized Access/Disclosure","Network Server",1,2023
+"DotHouse Health Incorporated","MA","Healthcare Provider",10000,"Hacking/IT Incident","Network Server",1,2023
+"Benefit Administrative Systems, LLC (BAS)","IL","Business Associate",6465,"Hacking/IT Incident","Network Server",1,2023
+"Minuteman Senior Services","MA","Healthcare Provider",500,"Hacking/IT Incident","Email",1,2023
+"Benefit Management LLC","KS","Business Associate",3356,"Hacking/IT Incident","Email",1,2023
+"Peachtree Immediate Care FP, LLC","GA","Healthcare Provider",2555,"Unauthorized Access/Disclosure","Paper/Films",1,2023
+"One Brooklyn Health System","NY","Healthcare Provider",500,"Hacking/IT Incident","Network Server",1,2023
+"University of Colorado Hospital Authority","CO","Healthcare Provider",48879,"Hacking/IT Incident","Network Server",1,2023
+"DPP II, LLC","TX","Healthcare Provider",125981,"Hacking/IT Incident","Network Server",1,2023
+"Community Psychiatry Management, LLC, dba Mindpath Health","NC","Healthcare Provider",193947,"Hacking/IT Incident","Email",1,2023
+"Insulet Corporation","MA","Healthcare Provider",29000,"Unauthorized Access/Disclosure","Network Server",1,2023
+"Lantern Hill Retirement Community","NJ","Healthcare Provider",528,"Unauthorized Access/Disclosure","Network Server",1,2023
+"Barclay Damon LLP","NY","Business Associate",1039,"Hacking/IT Incident","Email",1,2023
+"NR Florida Associates LLC","FL","Healthcare Provider",6250,"Hacking/IT Incident","Network Server",12,2022
+"L. Knife & Son, Inc. Employee Benefits Plan","MA","Health Plan",4082,"Hacking/IT Incident","Network Server",12,2022
+"Legacy Operating Company d/b/a Legacy Hospice","AL","Healthcare Provider",21202,"Hacking/IT Incident","Email",12,2022
+"Southwest Louisiana Health Care System, Inc. d/b/a Lake Charles Memorial Health System","LA","Healthcare Provider",269752,"Hacking/IT Incident","Network Server",12,2022
+"University of Miami ","FL","Healthcare Provider",973,"Unauthorized Access/Disclosure","Email",12,2022
+"Bay City Health & Rehabilitation Center ","TX","Healthcare Provider",2000,"Hacking/IT Incident","Network Server",12,2022
+"Metropolitan Area EMS Authority dba MedStar Mobile Healthcare","TX","Healthcare Provider",612000,"Hacking/IT Incident","Network Server",12,2022
+"Foundcare, Inc.","FL","Healthcare Provider",14194,"Hacking/IT Incident","Email",12,2022
+"Avem Health Partners","OK","Business Associate",271303,"Hacking/IT Incident","Network Server",12,2022
+"Sleep Center Hawaii","HI","Healthcare Provider",5396,"Hacking/IT Incident","Email",12,2022
+"Pediatrics West, P.C.","MA","Healthcare Provider",1364,"Hacking/IT Incident","Network Server",12,2022
+"Employee Group Insurance Benefits Plan of Acuity Brands, Inc.","GA","Health Plan",20849,"Hacking/IT Incident","Network Server",12,2022
+"NYC Health + Hospitals","NY","Healthcare Provider",2174,"Loss","Other Portable Electronic Device",12,2022
+"CommonSpirit Health","IL","Business Associate",623774,"Hacking/IT Incident","Network Server",12,2022
+"Keck Medicine of USC","CA","Healthcare Provider",2200,"Hacking/IT Incident","Email",11,2022
+"Dallam Hartley Counties Hospital District","TX","Healthcare Provider",69835,"Hacking/IT Incident","Network Server",11,2022
+"Compton & Broomhead Dental Center","IN","Healthcare Provider",1307,"Hacking/IT Incident","Email",11,2022
+"Hope Health Systems Inc.","MD","Healthcare Provider",9972,"Hacking/IT Incident","Electronic Medical Record",11,2022
+"Orlando Health","FL","Healthcare Provider",3662,"Hacking/IT Incident","Email",11,2022
+"Wright & Filippis LLC","MI","Healthcare Provider",877584,"Hacking/IT Incident","Network Server",11,2022
+"Gateway Rehabilitation Center","PA","Healthcare Provider",130000,"Hacking/IT Incident","Network Server",11,2022
+"Innovative Service Technology Management Services, Inc. ","GA","Health Plan",2654,"Hacking/IT Incident","Network Server",11,2022
+"South Walton Fire District","FL","Healthcare Provider",25331,"Hacking/IT Incident","Network Server",11,2022
+"Docs Medical Inc","CT","Healthcare Provider",3146,"Hacking/IT Incident","Network Server",11,2022
+"Epic Management LLC","TN","Healthcare Provider",10862,"Hacking/IT Incident","Email",11,2022
+"Health Care Management Solutions, LLC","WV","Business Associate",500000,"Hacking/IT Incident","Network Server",11,2022
+"NewYork-Presbyterian Hospital","NY","Healthcare Provider",12000,"Hacking/IT Incident","Laptop",11,2022
+"Stanley Street Treatment and Resources, Inc. ","MA","Healthcare Provider",45785,"Hacking/IT Incident","Network Server",11,2022
+"Connexin Software, Inc.","PA","Business Associate",2675934,"Hacking/IT Incident","Network Server",11,2022
+"Doctors' Center Hospital","","Healthcare Provider",1195220,"Hacking/IT Incident","Network Server",11,2022
+"Heartland Alliance ","IL","Business Associate",46694,"Hacking/IT Incident","Network Server",11,2022
+"Eastside Pediatrics, PLLC","NY","Healthcare Provider",1723,"Hacking/IT Incident","Network Server",11,2022
+"OCEANVIEWS OPTICAL INC","FL","Healthcare Provider",2000,"Hacking/IT Incident","Network Server",11,2022
+"TIC International Corporation (“TIC”)","IN","Business Associate",1362,"Hacking/IT Incident","Network Server",11,2022
+"CorrectCare Integrated Health, Inc.","KY","Business Associate",4380,"Unauthorized Access/Disclosure","Network Server",10,2022
+"CorrectCare Integrated Health, Inc.","KY","Business Associate",438713,"Unauthorized Access/Disclosure","Network Server",10,2022
+"Heart of Florida Health Center, Inc.","FL","Healthcare Provider",721,"Unauthorized Access/Disclosure","Network Server",10,2022
+"The Psychology Center","WI","Healthcare Provider",3614,"Unauthorized Access/Disclosure","Network Server",10,2022
+"Administrative Fund of the Detectives’ Endowment Association, Inc., Police Department City of New York","NY","Health Plan",21544,"Hacking/IT Incident","Email",10,2022
+"Assurance Health System, LLC","IN","Healthcare Provider",3565,"Hacking/IT Incident","Email",10,2022
+"SightCare, Inc.","AZ","Health Plan",637999,"Hacking/IT Incident","Network Server",10,2022
+"Nationwide Optometry, PC","AZ","Healthcare Provider",73073,"Hacking/IT Incident","Network Server",10,2022
+"University of Michigan/Michigan Medicine","MI","Healthcare Provider",33857,"Hacking/IT Incident","Email",10,2022
+"Coastal Horizons Center Inc.","NC","Healthcare Provider",679,"Unauthorized Access/Disclosure","Electronic Medical Record",10,2022
+"Somnia, Inc.","NY","Healthcare Provider",1326,"Hacking/IT Incident","Network Server",10,2022
+"Hendry County Hospital Authority d/b/a Hendry Regional Medical Center","FL","Healthcare Provider",49514,"Hacking/IT Incident","Network Server",10,2022
+"Illinois Department of Healthcare and Family Services, Illinois Department of Human Services ","IL","Health Plan",480435,"Hacking/IT Incident","Network Server",10,2022
+"Phoenix Programs of Florida, Inc.","FL","Healthcare Provider",6594,"Hacking/IT Incident","Email",10,2022
+"Dr. Scott B. Klimaj, DMD","RI","Healthcare Provider",1558,"Hacking/IT Incident","Network Server",10,2022
+"Wenco Management, LLC Health and Welfare Benefit Plan","OH","Health Plan",20526,"Hacking/IT Incident","Network Server",10,2022
+"Pynenberg & Scheske DDS,SC ","WI","Healthcare Provider",2612,"Hacking/IT Incident","Network Server",10,2022
+"Sigmund Software, LLC ","CT","Business Associate",983,"Hacking/IT Incident","Network Server",10,2022
+"Friend Family Health Center, Inc.","IL","Healthcare Provider",1419,"Hacking/IT Incident","Email",10,2022
+"Blue Cross and Blue Shield of Kansas","KS","Health Plan",1308,"Hacking/IT Incident","Network Server",10,2022
+"WakeMed Health and Hospitals","NC","Healthcare Provider",495808,"Unauthorized Access/Disclosure","Network Server",10,2022
+"Springfield Clinic","IL","Healthcare Provider",802,"Loss","Other Portable Electronic Device",10,2022
+"Ascension St. Vincent’s Coastal Cardiology","GA","Healthcare Provider",71227,"Hacking/IT Incident","Network Server",10,2022
+"Premier Physical Therapy and Sports Performance, Limited Partnership","DE","Healthcare Provider",982,"Hacking/IT Incident","Email",10,2022
+"Sage Counseling Omaha","NE","Healthcare Provider",1359,"Theft","Electronic Medical Record",10,2022
+"Defense Health Headquarters","VA","Health Plan",1279,"Hacking/IT Incident","Network Server",10,2022
+"Aesthetic Dermatology Associates, PC","PA","Healthcare Provider",33793,"Hacking/IT Incident","Network Server",10,2022
+"Lifespire Services, Inc.","NY","Healthcare Provider",15375,"Hacking/IT Incident","Network Server",10,2022
+"Falcon Healthcare, Inc. dba Interim Healthcare of Lubbock Texas","TX","Healthcare Provider",1500,"Hacking/IT Incident","Network Server",10,2022
+"Urology of Greater Atlanta, LLC","GA","Healthcare Provider",79795,"Hacking/IT Incident","Network Server, Other",10,2022
+"Wisconsin Department of Health Services","WI","Health Plan",12358,"Unauthorized Access/Disclosure","Email",10,2022
+"Berkshire Farm Center & Services for Youth","NY","Healthcare Provider",951,"Hacking/IT Incident","Email",10,2022
+"Valle del Sol, Inc.","AZ","Healthcare Provider",70268,"Hacking/IT Incident","Network Server",10,2022
+"Family Medicine Shady Grove LLC","MD","Healthcare Provider",6482,"Hacking/IT Incident","Network Server",10,2022
+"Monroe Ear Nose and Throat Associates, PC","MI","Healthcare Provider",14500,"Hacking/IT Incident","Electronic Medical Record, Network Server",9,2022
+"Anthem Health Plans of Kentucky, Incorporated","IN","Business Associate",537,"Theft","Other Portable Electronic Device",9,2022
+"Smith, Gambrell & Russell, LLP","GA","Business Associate",4688,"Hacking/IT Incident","Network Server",9,2022
+"McPherson Hospital, Inc.","KS","Healthcare Provider",19020,"Hacking/IT Incident","Network Server",9,2022
+"Extended MLTC","NY","Health Plan",5494,"Hacking/IT Incident","Network Server",9,2022
+"FMC Services, LLC","TX","Healthcare Provider",233948,"Hacking/IT Incident","Network Server",9,2022
+"Grayling Anesthesia Associates PC","MI","Healthcare Provider",15378,"Hacking/IT Incident","Network Server",9,2022
+"Cynthia Paul, M.D., LLC d/b/a The Coeur Group","NE","Healthcare Provider",2020,"Hacking/IT Incident","Email",9,2022
+"Physician’s Business Office, Inc.","WV","Business Associate",196673,"Hacking/IT Incident","Network Server",9,2022
+"Bloomington Meadows Hospital","IN","Healthcare Provider",788,"Unauthorized Access/Disclosure","Email",9,2022
+"UW Medicine","WA","Healthcare Provider",3804,"Hacking/IT Incident","Network Server",9,2022
+"Berkshire Farm Center & Services for Youth  ","NY","Healthcare Provider",23058,"Unauthorized Access/Disclosure","Network Server",9,2022
+"Landmark Management Services","FL","Healthcare Provider",501,"Hacking/IT Incident","Network Server",9,2022
+"Centerstone of Tennessee, Inc.","TN","Healthcare Provider",3675,"Hacking/IT Incident","Email",9,2022
+"SERV Behavioral Health Systems, Inc.","NJ","Healthcare Provider",8110,"Hacking/IT Incident","Network Server",9,2022
+"FEDERAL EXPRESS CORPORATION GROUP HEALTH PLAN FOR PILOTS","TN","Health Plan",983,"Hacking/IT Incident","Network Server",9,2022
+"The Sargent’s Group","PA","Business Associate",1650,"Hacking/IT Incident","Network Server",9,2022
+"Medical Associates of the Lehigh Valley","PA","Healthcare Provider",75628,"Hacking/IT Incident","Network Server",9,2022
+"Independent Living Systems, LLC","FL","Business Associate",501,"Hacking/IT Incident","Network Server",9,2022
+"Narragansett Bay Commission","RI","Healthcare Provider",2153,"Hacking/IT Incident","Network Server",9,2022
+"Walgreen Co.","IL","Healthcare Provider",1704,"Theft","Paper/Films",8,2022
+"Trinity Health ","MI","Business Associate",5738,"Unauthorized Access/Disclosure","Network Server",8,2022
+"Methodist McKinney Hospital","TX","Healthcare Provider",110244,"Hacking/IT Incident","Network Server",8,2022
+"Methodist Craig Ranch Surgical Center","TX","Healthcare Provider",15157,"Hacking/IT Incident","Network Server",8,2022
+"Farmville Internal Medicine","NC","Healthcare Provider",3000,"Hacking/IT Incident","Electronic Medical Record, Network Server",8,2022
+"Community Bridges","NH","Healthcare Provider",10461,"Hacking/IT Incident","Network Server",8,2022
+"Warner Norcross and Judd, LLP","MI","Business Associate",255160,"Hacking/IT Incident","Network Server",8,2022
+"San Diego American Indian Health Center","CA","Healthcare Provider",27367,"Hacking/IT Incident","Network Server",8,2022
+"AdventHealth Medical Group OB GYN at Woodridge","IL","Healthcare Provider",2001,"Loss","Other Portable Electronic Device",8,2022
+"Priti Patel Physician PC","NY","Healthcare Provider",6877,"Hacking/IT Incident","Network Server",8,2022
+"Valley Baptist Medical Center – Harlingen","TX","Healthcare Provider",11137,"Hacking/IT Incident","Network Server",8,2022
+"Valley Baptist Medical Center - Brownsville","TX","Healthcare Provider",7496,"Hacking/IT Incident","Network Server",8,2022
+"Specialized Treatment Facility","MS","Healthcare Provider",1059,"Unauthorized Access/Disclosure","Email",8,2022
+"Rock County Human Services Department","WI","Healthcare Provider",25610,"Hacking/IT Incident","Email",8,2022
+"DataStat, Inc.","MI","Business Associate",1650,"Unauthorized Access/Disclosure","Paper/Films",8,2022
+"Maternal and Family Health Services","PA","Healthcare Provider",500,"Hacking/IT Incident","Network Server",8,2022
+"Living Innovations","NH","Healthcare Provider",4000,"Hacking/IT Incident","Email",8,2022
+"Centerstone of Indiana, Inc.","IN","Healthcare Provider",1700,"Hacking/IT Incident","Email",8,2022
+"Independent Case Management, INC.","AR","Healthcare Provider",3307,"Hacking/IT Incident","Network Server",8,2022
+"Eventus WholeHealth PLLC","NC","Healthcare Provider",1707,"Hacking/IT Incident","Email",7,2022
+"Healthback Holdings, LLC ","OK","Healthcare Provider",21114,"Hacking/IT Incident","Email",7,2022
+"Minuteman Senior Services","MA","Healthcare Provider",4000,"Hacking/IT Incident","Email",7,2022
+"OneTouchPoint, Inc.","WI","Business Associate",4112892,"Hacking/IT Incident","Network Server",7,2022
+"Dr. Manaf Ahmad","TX","Healthcare Provider",3717,"Hacking/IT Incident","Email",7,2022
+"Allegheny Heath Network","PA","Healthcare Provider",8071,"Hacking/IT Incident","Email",7,2022
+"Lawson Products, Inc.","IL","Health Plan",791,"Hacking/IT Incident","Network Server",7,2022
+"Santa Rosa County District Schools","FL","Health Plan",9424,"Unauthorized Access/Disclosure","Network Server",7,2022
+"Scott County, Iowa","IA","Business Associate",1583,"Hacking/IT Incident","Email",7,2022
+"NuLife Med, LLC","NH","Business Associate",3805,"Hacking/IT Incident","Network Server",7,2022
+"Center for Primary Care","GA","Healthcare Provider",2400,"Hacking/IT Incident","Email",7,2022
+"City of Newport, Rhode Island","RI","Health Plan",6109,"Hacking/IT Incident","Network Server",7,2022
+"Patriot Growth Insurance Services, LLC","PA","Business Associate",4614,"Hacking/IT Incident","Email",7,2022
+"Central Maine Medical Center","ME","Healthcare Provider",11938,"Hacking/IT Incident","Network Server",7,2022
+"Dow Rummel Village","SD","Healthcare Provider",1079,"Hacking/IT Incident","Email",7,2022
+"Zenith American Solutions","WA","Business Associate",37146,"Unauthorized Access/Disclosure","Paper/Films",7,2022
+"Goodman Campbell Brain and Spine","IN","Healthcare Provider",362833,"Hacking/IT Incident","Network Server",7,2022
+"ProMedica","OH","Healthcare Provider",1178,"Unauthorized Access/Disclosure","Email",7,2022
+"Acts Retirement Services, Inc. and Affiliates","PA","Healthcare Provider",2236,"Hacking/IT Incident","Network Server",7,2022
+"Mary Hitchcock Memorial Hospital d/b/a Dartmouth-Hitchcock Medical Center ","NH","Healthcare Provider",1201,"Loss","Laptop",7,2022
+"Washington University School of Medicine","MO","Healthcare Provider",1056,"Hacking/IT Incident","Network Server",7,2022
+"Cornerstone Services","IL","Healthcare Provider",2513,"Hacking/IT Incident","Network Server",7,2022
+"Wisconsin Department of Health Services","WI","Health Plan",1698,"Hacking/IT Incident","Network Server",7,2022
+"Southwest Health Center","WI","Healthcare Provider",46142,"Hacking/IT Incident","Network Server",7,2022
+"Carolina Behavioral Health Alliance, LLC","NC","Business Associate",130922,"Hacking/IT Incident","Network Server",7,2022
+"CHRISTUS Spohn Health System Corporation","TX","Healthcare Provider",15062,"Hacking/IT Incident","Network Server",7,2022
+"Michigan Avenue Immediate Care","IL","Healthcare Provider",144104,"Hacking/IT Incident","Network Server",6,2022
+"OrthoWest, PC","NE","Healthcare Provider",1369,"Hacking/IT Incident","Email",6,2022
+"Mattax Neu Prater Eye Center, Inc.","MO","Healthcare Provider",92361,"Hacking/IT Incident","Electronic Medical Record",6,2022
+"Hudson Regional Hospital","NJ","Healthcare Provider",1300,"Hacking/IT Incident","Network Server",6,2022
+"Winslow Memorial Hospital d/b/a Little Colorado Medical Center","AZ","Healthcare Provider",1000,"Hacking/IT Incident","Network Server",6,2022
+"ARC Industries Inc. of Franklin County","OH","Healthcare Provider",22011,"Hacking/IT Incident","Network Server",6,2022
+"Help at Home ","IL","Healthcare Provider",800,"Improper Disposal","Paper/Films",6,2022
+"Tosoh America, Inc.","OH","Health Plan",880,"Hacking/IT Incident","Email",6,2022
+"City of Cincinnati Health Plan","OH","Health Plan",9769,"Unauthorized Access/Disclosure","Network Server",6,2022
+"Liberty Healthcare Group ","NC","Healthcare Provider",2191,"Hacking/IT Incident","Email",6,2022
+"Mason Tenders’ District Council Welfare Fund","NY","Health Plan",13344,"Hacking/IT Incident","Network Server",6,2022
+"Baptist Medical Center","TX","Healthcare Provider",1608549,"Hacking/IT Incident","Network Server",6,2022
+"Resolute Health Hospital","TX","Healthcare Provider",54239,"Hacking/IT Incident","Network Server",6,2022
+"MCG Health, LLC","WA","Business Associate",793283,"Hacking/IT Incident","Network Server",6,2022
+"Bayshore Brightwaters Rescue Ambulance, Inc.","NY","Healthcare Provider",679,"Hacking/IT Incident","Email",6,2022
+"90 Degree Benefits, Inc.","WI","Business Associate",172450,"Hacking/IT Incident","Network Server",6,2022
+"Christiana Spine Center, PA","DE","Healthcare Provider",3500,"Hacking/IT Incident","Network Server",6,2022
+"Southern Ohio Medical Center","OH","Healthcare Provider",1333,"Hacking/IT Incident","Network Server",6,2022
+"Atrium Health at Home","NC","Healthcare Provider",6695,"Hacking/IT Incident","Email",6,2022
+"Memorial Community Health, Inc.","NE","Healthcare Provider",1658,"Hacking/IT Incident","Network Server",6,2022
+"Shields Health Care Group, Inc.","MA","Business Associate",2380483,"Hacking/IT Incident","Network Server",5,2022
+"University of Chicago Medical Center","IL","Healthcare Provider",2568,"Hacking/IT Incident","Email",5,2022
+"BJC Health System","MO","Business Associate",500,"Hacking/IT Incident","Email",5,2022
+"NLB Corporation","MI","Health Plan",1943,"Hacking/IT Incident","Network Server",5,2022
+"Comstar, LLC","MA","Business Associate",68957,"Hacking/IT Incident","Network Server",5,2022
+"Moyes Eye Center, PC","MO","Healthcare Provider",38000,"Hacking/IT Incident","Electronic Medical Record",5,2022
+"Family Health Care, Inc","KS","Healthcare Provider",33619,"Hacking/IT Incident","Network Server",5,2022
+"Allwell Behavioral Health Services","OH","Healthcare Provider",29972,"Hacking/IT Incident","Network Server",5,2022
+"Washington University School of Medicine","MO","Health Plan",500,"Hacking/IT Incident","Email",5,2022
+"Alameda Health System","CA","Healthcare Provider",90000,"Hacking/IT Incident","Email",5,2022
+"Partnership HealthPlan of California","CA","Health Plan",854913,"Hacking/IT Incident","Network Server",5,2022
+"Bryan County Ambulance Authority","OK","Healthcare Provider",14273,"Hacking/IT Incident","Network Server",5,2022
+"Northern Rockies Orthopaedics","MT","Healthcare Provider",6701,"Hacking/IT Incident","Email",5,2022
+"Apria Healthcare LLC","IN","Healthcare Provider",1868831,"Hacking/IT Incident","Email, Network Server",5,2022
+"Livingston Memorial VNA Health Corporation and its affiliates Livingston Memorial Visiting Nurse Association and Livingston CareGivers","CA","Healthcare Provider",34775,"Hacking/IT Incident","Network Server",3,2022
